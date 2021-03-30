@@ -3735,6 +3735,2306 @@
         "name": "assets\\boat1.2.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Graveyard Tile_all_64.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9patch_Graveyard Tile_all_64.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Worlds/Graveyard/9patch_Graveyard Tile_all_64.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Graveyard Tile_east.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9patch_Graveyard Tile_east.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Worlds/Graveyard/9patch_Graveyard Tile_east.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Graveyard Tile_north.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9patch_Graveyard Tile_north.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Worlds/Graveyard/9patch_Graveyard Tile_north.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Graveyard Tile_center.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9patch_Graveyard Tile_center.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Worlds/Graveyard/9patch_Graveyard Tile_center.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Graveyard Tile_northeast.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9patch_Graveyard Tile_northeast.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Worlds/Graveyard/9patch_Graveyard Tile_northeast.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Graveyard Tile_south.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9patch_Graveyard Tile_south.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Worlds/Graveyard/9patch_Graveyard Tile_south.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Graveyard Tile_northwest.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9patch_Graveyard Tile_northwest.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Worlds/Graveyard/9patch_Graveyard Tile_northwest.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Graveyard Tile_southwest.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9patch_Graveyard Tile_southwest.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Worlds/Graveyard/9patch_Graveyard Tile_southwest.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Graveyard Tile_southeast.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9patch_Graveyard Tile_southeast.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Worlds/Graveyard/9patch_Graveyard Tile_southeast.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Graveyard Tile_west.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9patch_Graveyard Tile_west.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Worlds/Graveyard/9patch_Graveyard Tile_west.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Dead_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Dead_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Dead_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Dead_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Dead_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Dead_10.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Dead_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Dead_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Dead_11.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Dead_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Dead_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Dead_12.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Dead_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Dead_13.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Dead_13.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Dead_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Dead_14.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Dead_14.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Dead_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Dead_15.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Dead_15.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Dead_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Dead_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Dead_2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Dead_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Dead_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Dead_3.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Dead_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Dead_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Dead_4.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Dead_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Dead_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Dead_5.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Dead_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Dead_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Dead_7.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Dead_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Dead_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Dead_6.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Dead_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Dead_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Dead_9.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Dead_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Dead_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Dead_8.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Idle_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Idle_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Idle_10.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Idle_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Idle_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Idle_11.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Idle_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Idle_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Idle_13.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Idle_13.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Idle_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Idle_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Idle_12.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Idle_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Idle_14.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Idle_14.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Idle_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Idle_15.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Idle_15.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Idle_3.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Idle_2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Idle_4.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Idle_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Idle_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Idle_6.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Idle_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Idle_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Idle_7.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Idle_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Idle_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Idle_8.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Idle_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Idle_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Idle_9.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Jump_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Jump_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Jump_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Jump_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Jump_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Jump_10.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Jump_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Jump_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Jump_12.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Jump_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Jump_13.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Jump_13.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Jump_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Jump_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Jump_11.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Jump_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Jump_15.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Jump_15.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Jump_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Jump_14.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Jump_14.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Jump_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Jump_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Jump_2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Jump_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Jump_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Jump_3.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Jump_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Jump_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Jump_4.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Jump_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Jump_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Jump_5.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Jump_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Jump_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Jump_6.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Jump_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Jump_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Jump_7.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Jump_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Jump_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Jump_9.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Jump_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Jump_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Jump_8.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Run_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Run_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Run_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Run_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Run_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Run_10.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Run_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Run_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Run_11.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Run_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Run_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Run_12.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Run_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Run_13.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Run_13.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Run_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Run_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Run_2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Run_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Run_14.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Run_14.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Run_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Run_15.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Run_15.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Run_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Run_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Run_3.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Run_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Run_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Run_4.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Run_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Run_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Run_5.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Run_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Run_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Run_6.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Run_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Run_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Run_7.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Run_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Run_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Run_8.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Run_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Run_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Run_9.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Idle_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Idle_5.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Walk_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Walk_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Walk_10.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Walk_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Walk_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Walk_11.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Walk_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Walk_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Walk_12.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Walk_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Walk_13.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Walk_13.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Walk_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Walk_15.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Walk_15.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Walk_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Walk_14.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Walk_14.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Walk_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Walk_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Walk_3.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Walk_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Walk_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Walk_2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Walk_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Walk_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Walk_5.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Walk_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Walk_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Walk_4.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Walk_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Walk_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Walk_7.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Walk_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Walk_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Walk_6.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Walk_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Walk_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Walk_9.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Walk_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Walk_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Walk_8.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Boy_Walk_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Boy_Walk_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Flat Boy/Flat Boy_Walk_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Desert Tile_center.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9patch_Desert Tile_center.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Worlds/Desert/9patch_Desert Tile_center.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Desert Tile_east.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9patch_Desert Tile_east.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Worlds/Desert/9patch_Desert Tile_east.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Desert Tile_all_64.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9patch_Desert Tile_all_64.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Worlds/Desert/9patch_Desert Tile_all_64.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Desert Tile_north.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9patch_Desert Tile_north.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Worlds/Desert/9patch_Desert Tile_north.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Desert Tile_northeast.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9patch_Desert Tile_northeast.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Worlds/Desert/9patch_Desert Tile_northeast.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Desert Tile_northwest.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9patch_Desert Tile_northwest.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Worlds/Desert/9patch_Desert Tile_northwest.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Desert Tile_south.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9patch_Desert Tile_south.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Worlds/Desert/9patch_Desert Tile_south.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Desert Tile_southeast.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9patch_Desert Tile_southeast.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Worlds/Desert/9patch_Desert Tile_southeast.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Desert Tile_west.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9patch_Desert Tile_west.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Worlds/Desert/9patch_Desert Tile_west.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Desert Tile_southwest.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9patch_Desert Tile_southwest.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Worlds/Desert/9patch_Desert Tile_southwest.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orc Head.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orc Head.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Hill Climb/Orc/Orc Head.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Background/background_game/PNG/game_background_1/game_background_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Background\\background_game\\PNG\\game_background_1\\game_background_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Summer Tile Water.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\tiled_Summer Tile Water.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Graveyard Tile_north.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\9patch_Graveyard Tile_north.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "parede_lateral_d_boat-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "parede_lateral_d_boat-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "parede_lateral_e_boat-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "parede_lateral_e_boat-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Walk_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Cat_Walk_1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Dead_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Dead_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Dead_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Dead_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Dead_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Dead_10.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Dead_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Dead_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Dead_3.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Dead_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Dead_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Dead_4.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Dead_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Dead_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Dead_2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Dead_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Dead_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Dead_5.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Dead_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Dead_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Dead_6.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Dead_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Dead_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Dead_7.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Dead_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Dead_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Dead_8.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Dead_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Dead_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Dead_9.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Fall_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Fall_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Fall_2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Fall_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Fall_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Fall_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Fall_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Fall_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Fall_3.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Fall_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Fall_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Fall_4.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Fall_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Fall_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Fall_5.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Fall_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Fall_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Fall_6.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Fall_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Fall_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Fall_7.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Fall_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Fall_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Fall_8.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Hurt_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Hurt_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Hurt_10.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Hurt_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Hurt_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Hurt_2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Hurt_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Hurt_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Hurt_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Hurt_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Hurt_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Hurt_3.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Hurt_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Hurt_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Hurt_5.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Hurt_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Hurt_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Hurt_4.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Hurt_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Hurt_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Hurt_6.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Hurt_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Hurt_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Hurt_7.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Hurt_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Hurt_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Hurt_8.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Hurt_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Hurt_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Hurt_9.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Idle_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Idle_2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Idle_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Idle_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Idle_10.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Idle_3.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Idle_4.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Idle_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Idle_5.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Idle_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Idle_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Idle_6.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Idle_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Idle_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Idle_8.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Idle_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Idle_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Idle_7.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Idle_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Idle_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Idle_9.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Jump_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Jump_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Jump_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Jump_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Jump_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Jump_2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Jump_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Jump_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Jump_3.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Jump_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Jump_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Jump_4.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Jump_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Jump_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Jump_5.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Jump_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Jump_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Jump_6.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Jump_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Jump_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Jump_8.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Jump_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Jump_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Jump_7.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Run_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Run_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Run_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Run_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Run_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Run_3.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Run_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Run_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Run_2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Run_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Run_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Run_4.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Run_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Run_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Run_5.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Run_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Run_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Run_6.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Run_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Run_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Run_7.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Run_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Run_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Run_8.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Slide_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Slide_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Slide_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Slide_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Slide_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Slide_10.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Slide_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Slide_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Slide_4.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Slide_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Slide_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Slide_2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Slide_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Slide_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Slide_5.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Slide_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Slide_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Slide_3.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Slide_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Slide_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Slide_6.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Slide_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Slide_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Slide_8.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Slide_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Slide_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Slide_9.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Walk_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Walk_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Walk_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Walk_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Walk_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Walk_2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Walk_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Walk_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Walk_10.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Walk_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Walk_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Walk_3.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Walk_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Walk_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Walk_4.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Walk_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Walk_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Walk_6.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Walk_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Walk_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Walk_5.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Walk_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Walk_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Walk_7.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Walk_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Walk_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Walk_8.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Walk_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Walk_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Walk_9.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Slide_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dog_Slide_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Dog/Dog_Slide_7.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Dog_Idle_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/GatoHitBox.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\GatoHitBox.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/GatoHitBox-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\GatoHitBox-1.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -3757,7 +6057,7 @@
       "title": "",
       "v": 209,
       "uiSettings": {
-        "grid": true,
+        "grid": false,
         "gridB": 255,
         "gridG": 180,
         "gridHeight": 32,
@@ -3765,7 +6065,7 @@
         "gridOffsetY": 0,
         "gridR": 158,
         "gridWidth": 32,
-        "snap": true,
+        "snap": false,
         "windowMask": false,
         "zoomFactor": 1.024
       },
@@ -3781,8 +6081,8 @@
           "name": "ZombieBoy",
           "persistentUuid": "fff7fd1d-4130-4205-be98-4ccf8c6f810a",
           "width": 0,
-          "x": 96,
-          "y": 320,
+          "x": 118,
+          "y": -139,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -3813,9 +6113,9 @@
           "name": "WinterTileWaterWaves",
           "persistentUuid": "9be97912-e8b3-4abe-bc2a-de3cf09f6644",
           "width": 608,
-          "x": 288,
-          "y": 480,
-          "zOrder": 21,
+          "x": 267,
+          "y": 467,
+          "zOrder": 23,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3829,8 +6129,8 @@
           "name": "SummerTileWater",
           "persistentUuid": "ddcd7f29-67b0-4c13-8a0a-acca8d6c831a",
           "width": 640,
-          "x": 256,
-          "y": 512,
+          "x": 251,
+          "y": 498,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -3935,22 +6235,6 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 96,
-          "layer": "",
-          "locked": false,
-          "name": "Cat",
-          "persistentUuid": "7095c206-3c82-41ed-b5b6-f251f5d4d4ce",
-          "width": 128,
-          "x": 160,
-          "y": 352,
-          "zOrder": 29,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 32,
           "layer": "",
           "locked": false,
@@ -3973,9 +6257,105 @@
           "name": "boat2",
           "persistentUuid": "c52d9ffa-13ec-4b14-8eb8-aa2f56b14578",
           "width": 0,
-          "x": 352,
-          "y": 448,
-          "zOrder": 33,
+          "x": 360,
+          "y": 449,
+          "zOrder": 64,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1120,
+          "layer": "",
+          "locked": false,
+          "name": "Background",
+          "persistentUuid": "e2405dfc-7749-431f-8681-094d643c8a9a",
+          "width": 1728,
+          "x": -415,
+          "y": -492,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 45,
+          "layer": "",
+          "locked": false,
+          "name": "parede_lateral_d_boat",
+          "persistentUuid": "8bc8e224-e696-4089-ad4c-d09d802df9ae",
+          "width": 15,
+          "x": 608,
+          "y": 465,
+          "zOrder": 65,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 43,
+          "layer": "",
+          "locked": false,
+          "name": "parede_lateral_e_boat",
+          "persistentUuid": "3b3c34a2-8892-4cdb-a96f-e9c415839fcf",
+          "width": 17,
+          "x": 355,
+          "y": 467,
+          "zOrder": 66,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 18,
+          "layer": "",
+          "locked": false,
+          "name": "parede_inferior_boat",
+          "persistentUuid": "ffa0bde7-4eb5-458c-8716-32f85aa2fe3d",
+          "width": 168,
+          "x": 414,
+          "y": 490,
+          "zOrder": 67,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GatoHitbox",
+          "persistentUuid": "8231caad-0e91-40f7-9e7c-664dd8dfff4b",
+          "width": 0,
+          "x": -15,
+          "y": 332,
+          "zOrder": 68,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Gato",
+          "persistentUuid": "cca9a672-ce4f-4090-a059-b1eb58bbd231",
+          "width": 0,
+          "x": 92,
+          "y": 330,
+          "zOrder": 69,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3983,96 +6363,19 @@
       ],
       "objects": [
         {
-          "name": "PLayerPrincipal",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [
-            {
-              "name": "PlatformerObject",
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "acceleration": 1500,
-              "canGrabPlatforms": false,
-              "deceleration": 1500,
-              "gravity": 1000,
-              "ignoreDefaultControls": false,
-              "jumpSpeed": 600,
-              "jumpSustainTime": 0.2,
-              "ladderClimbingSpeed": 150,
-              "maxFallingSpeed": 700,
-              "maxSpeed": 250,
-              "roundCoordinates": true,
-              "slopeMaxAngle": 60,
-              "xGrabTolerance": 10,
-              "yGrabOffset": 0
-            }
-          ],
-          "animations": [
-            {
-              "name": "NewObject",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "NewObject-1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "ZombieBoy",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
-          "behaviors": [
-            {
-              "name": "PlatformerObject",
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "acceleration": 1500,
-              "canGrabPlatforms": false,
-              "deceleration": 1500,
-              "gravity": 1000,
-              "ignoreDefaultControls": false,
-              "jumpSpeed": 600,
-              "jumpSustainTime": 0.2,
-              "ladderClimbingSpeed": 150,
-              "maxFallingSpeed": 700,
-              "maxSpeed": 250,
-              "roundCoordinates": true,
-              "slopeMaxAngle": 60,
-              "xGrabTolerance": 10,
-              "yGrabOffset": 0
-            }
-          ],
+          "behaviors": [],
           "animations": [
             {
               "name": "Walk",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": true,
+                  "looping": false,
                   "timeBetweenFrames": 0.1,
                   "sprites": [
                     {
@@ -4231,637 +6534,6 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "Zombie Boy_Walk_10.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Attack",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.125,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Attack_1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Attack_2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Attack_3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Attack_4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Attack_5.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Attack_6.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Attack_7.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Attack_8.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Dead",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.0833,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Dead_1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Dead_2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Dead_3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Dead_4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Dead_5.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Dead_6.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Dead_7.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Dead_8.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Dead_9.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Dead_10.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Dead_11.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Dead_12.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Idle",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.0667,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Idle_1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Idle_2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Idle_3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Idle_4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Idle_5.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Idle_6.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Idle_7.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Idle_8.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Idle_9.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Idle_10.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Idle_11.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Idle_12.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Idle_13.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Idle_14.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Idle_15.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5055,7 +6727,7 @@
           "height": 128,
           "name": "SummerTileWater",
           "tags": "",
-          "texture": "tiled_Summer Tile Water.png",
+          "texture": "assets\\tiled_Summer Tile Water.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 128,
           "variables": [],
@@ -5402,11 +7074,195 @@
           ]
         },
         {
-          "name": "Cat",
+          "height": 101,
+          "name": "boat1",
+          "tags": "",
+          "texture": "assets\\boat1.1.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 270,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 3
+            }
+          ]
+        },
+        {
+          "height": 64,
+          "name": "boat2",
+          "tags": "",
+          "texture": "assets\\boat1.2.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 260,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "height": 1080,
+          "name": "Background",
+          "tags": "",
+          "texture": "Media\\Characters GameQi\\Background\\background_game\\PNG\\game_background_1\\game_background_1.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 1920,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "name": "parede_lateral_d_boat",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "parede_lateral_d_boat",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "parede_lateral_d_boat-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "parede_inferior_boat",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "parede_lateral_e_boat",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "parede_lateral_e_boat-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "parede_lateral_e_boat",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "parede_lateral_e_boat",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "parede_lateral_e_boat-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "GatoHitbox",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "Var_gato",
+              "value": ""
+            }
+          ],
           "behaviors": [
             {
               "acceleration": 1500,
@@ -5429,16 +7285,74 @@
           ],
           "animations": [
             {
-              "name": "Run",
+              "name": "GatoHitBox",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\GatoHitBox-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26.3,
+                            "y": 4.45
+                          },
+                          {
+                            "x": 97.5,
+                            "y": 4.45
+                          },
+                          {
+                            "x": 97.7,
+                            "y": 116.55
+                          },
+                          {
+                            "x": 26.4,
+                            "y": 116.55
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Gato",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Idle",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": true,
-                  "timeBetweenFrames": 0.125,
+                  "timeBetweenFrames": 0.1,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Run_1.png",
+                      "image": "Dog_Idle_1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5455,7 +7369,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Run_2.png",
+                      "image": "Dog_Idle_2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5472,7 +7386,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Run_3.png",
+                      "image": "Dog_Idle_3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5489,7 +7403,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Run_4.png",
+                      "image": "Dog_Idle_4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5506,7 +7420,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Run_5.png",
+                      "image": "Dog_Idle_5.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5523,7 +7437,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Run_6.png",
+                      "image": "Dog_Idle_6.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5540,7 +7454,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Run_7.png",
+                      "image": "Dog_Idle_7.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5557,7 +7471,41 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Run_8.png",
+                      "image": "Dog_Idle_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Dog_Idle_9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Dog_Idle_10.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5586,7 +7534,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Dead_1.png",
+                      "image": "Dog_Dead_1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5603,7 +7551,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Dead_2.png",
+                      "image": "Dog_Dead_2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5620,7 +7568,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Dead_3.png",
+                      "image": "Dog_Dead_3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5637,7 +7585,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Dead_4.png",
+                      "image": "Dog_Dead_4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5654,7 +7602,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Dead_5.png",
+                      "image": "Dog_Dead_5.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5671,7 +7619,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Dead_6.png",
+                      "image": "Dog_Dead_6.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5688,7 +7636,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Dead_7.png",
+                      "image": "Dog_Dead_7.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5705,7 +7653,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Dead_8.png",
+                      "image": "Dog_Dead_8.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5722,7 +7670,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Dead_9.png",
+                      "image": "Dog_Dead_9.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5739,7 +7687,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Dead_10.png",
+                      "image": "Dog_Dead_10.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5768,7 +7716,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Fall_1.png",
+                      "image": "Dog_Fall_1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5785,7 +7733,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Fall_2.png",
+                      "image": "Dog_Fall_2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5802,7 +7750,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Fall_3.png",
+                      "image": "Dog_Fall_3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5819,7 +7767,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Fall_4.png",
+                      "image": "Dog_Fall_4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5836,7 +7784,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Fall_5.png",
+                      "image": "Dog_Fall_5.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5853,7 +7801,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Fall_6.png",
+                      "image": "Dog_Fall_6.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5870,7 +7818,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Fall_7.png",
+                      "image": "Dog_Fall_7.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5887,7 +7835,485 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Fall_8.png",
+                      "image": "Dog_Fall_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Hurt",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Dog_Hurt_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Dog_Hurt_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Dog_Hurt_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Dog_Hurt_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Dog_Hurt_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Dog_Hurt_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Dog_Hurt_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Dog_Hurt_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Dog_Hurt_9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Dog_Hurt_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Jump",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.125,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Dog_Jump_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Dog_Jump_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Dog_Jump_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Dog_Jump_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Dog_Jump_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Dog_Jump_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Dog_Jump_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Dog_Jump_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Run",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.2,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Dog_Run_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Dog_Run_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Dog_Run_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Dog_Run_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Dog_Run_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Dog_Run_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Dog_Run_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Dog_Run_8.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5912,11 +8338,11 @@
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.1,
+                  "timeBetweenFrames": 0.2,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Slide_1.png",
+                      "image": "Dog_Slide_1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5933,7 +8359,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Slide_2.png",
+                      "image": "Dog_Slide_2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5950,7 +8376,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Slide_3.png",
+                      "image": "Dog_Slide_3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5967,7 +8393,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Slide_4.png",
+                      "image": "Dog_Slide_4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5984,7 +8410,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Slide_5.png",
+                      "image": "Dog_Slide_5.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6001,7 +8427,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Slide_6.png",
+                      "image": "Dog_Slide_6.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6018,7 +8444,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Slide_7.png",
+                      "image": "Dog_Slide_7.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6035,7 +8461,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Slide_8.png",
+                      "image": "Dog_Slide_8.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6052,7 +8478,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Slide_9.png",
+                      "image": "Dog_Slide_9.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6069,7 +8495,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Slide_10.png",
+                      "image": "Dog_Slide_10.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6098,7 +8524,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Walk_1.png",
+                      "image": "Dog_Walk_1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6115,7 +8541,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Walk_2.png",
+                      "image": "Dog_Walk_2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6132,7 +8558,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Walk_3.png",
+                      "image": "Dog_Walk_3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6149,7 +8575,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Walk_4.png",
+                      "image": "Dog_Walk_4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6166,7 +8592,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Walk_5.png",
+                      "image": "Dog_Walk_5.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6183,7 +8609,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Walk_6.png",
+                      "image": "Dog_Walk_6.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6200,7 +8626,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Walk_7.png",
+                      "image": "Dog_Walk_7.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6217,7 +8643,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Walk_8.png",
+                      "image": "Dog_Walk_8.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6234,7 +8660,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Walk_9.png",
+                      "image": "Dog_Walk_9.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6251,7 +8677,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cat_Walk_10.png",
+                      "image": "Dog_Walk_10.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6269,42 +8695,6 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "height": 101,
-          "name": "boat1",
-          "tags": "",
-          "texture": "assets\\boat1.1.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 270,
-          "variables": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": true,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 3
-            }
-          ]
-        },
-        {
-          "height": 64,
-          "name": "boat2",
-          "tags": "",
-          "texture": "assets\\boat1.2.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 260,
-          "variables": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": true,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 0
             }
           ]
         }
@@ -6332,69 +8722,6 @@
               "type": {
                 "inverted": false,
                 "value": "PlatformBehavior::SimulateJumpKey"
-              },
-              "parameters": [
-                "ZombieBoy",
-                "PlatformerObject"
-              ],
-              "subInstructions": []
-            }
-          ],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "BuiltinCommonInstructions::Or"
-              },
-              "parameters": [],
-              "subInstructions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "KeyPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "a"
-                  ],
-                  "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "KeyPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "Left"
-                  ],
-                  "subInstructions": []
-                }
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "FlipX"
-              },
-              "parameters": [
-                "ZombieBoy",
-                "yes"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "PlatformBehavior::SimulateLeftKey"
               },
               "parameters": [
                 "ZombieBoy",
@@ -6542,31 +8869,19 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "Cat",
-                "",
-                "yes",
-                ""
-              ],
-              "subInstructions": []
-            }
-          ],
+          "conditions": [],
           "actions": [
             {
               "type": {
                 "inverted": false,
-                "value": "ActivateBehavior"
+                "value": "MettreXY"
               },
               "parameters": [
-                "Cat",
-                "PlatformerObject",
-                ""
+                "Gato",
+                "=",
+                "GatoHitbox.X()",
+                "=",
+                "GatoHitbox.Y()"
               ],
               "subInstructions": []
             }
@@ -6581,12 +8896,9 @@
             {
               "type": {
                 "inverted": false,
-                "value": "SourisSurObjet"
+                "value": "DepartScene"
               },
               "parameters": [
-                "Cat",
-                "",
-                "yes",
                 ""
               ],
               "subInstructions": []
@@ -6596,12 +8908,325 @@
             {
               "type": {
                 "inverted": false,
-                "value": "ActivateBehavior"
+                "value": "Cache"
               },
               "parameters": [
-                "Cat",
-                "PlatformerObject",
+                "GatoHitbox"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "disabled": false,
+          "folded": false,
+          "name": "Sessao Animacao gato",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Gato",
+                    "GatoHitbox.VariableString(Var_gato)"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlatformBehavior::IsOnFloor"
+                  },
+                  "parameters": [
+                    "GatoHitbox",
+                    "PlatformerObject"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "PlatformBehavior::IsMoving"
+                      },
+                      "parameters": [
+                        "GatoHitbox",
+                        "PlatformerObject"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjetTxt"
+                      },
+                      "parameters": [
+                        "GatoHitbox",
+                        "Var_gato",
+                        "=",
+                        "\"Idle\""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlatformBehavior::IsMoving"
+                      },
+                      "parameters": [
+                        "GatoHitbox",
+                        "PlatformerObject"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjetTxt"
+                      },
+                      "parameters": [
+                        "GatoHitbox",
+                        "Var_gato",
+                        "=",
+                        "\"Run\""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::IsJumping"
+              },
+              "parameters": [
+                "GatoHitbox",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjetTxt"
+              },
+              "parameters": [
+                "GatoHitbox",
+                "Var_gato",
+                "=",
+                "\"Jump\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Or"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "a"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "Left"
+                  ],
+                  "subInstructions": []
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "FlipX"
+              },
+              "parameters": [
+                "Gato",
                 "yes"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::SimulateLeftKey"
+              },
+              "parameters": [
+                "GatoHitbox",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Or"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "d"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "Right"
+                  ],
+                  "subInstructions": []
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "FlipX"
+              },
+              "parameters": [
+                "Gato",
+                "no"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::SimulateRightKey"
+              },
+              "parameters": [
+                "GatoHitbox",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Up"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::SimulateJumpKey"
+              },
+              "parameters": [
+                "GatoHitbox",
+                "PlatformerObject"
               ],
               "subInstructions": []
             }
