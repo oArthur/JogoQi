@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+stock.adobe.com	TRUE	/	FALSE	1999999999	AdobeStock	b04e3d467721ee5d2175ec3f874a331d
+stock.adobe.com	TRUE	/	FALSE	1999999999	asui	6e1f8db22aa2509c91e34cb89443be7b
+stock.adobe.com	TRUE	/	FALSE	1999999999	isid	3f22ad9357da7268abce5b0f24ea339fe0b6d113
+stock.adobe.com	TRUE	/	FALSE	1999999999	ffuuid	ILAmjrR1cVeARAsAK7QT1w%3D%3D
+stock.adobe.com	TRUE	/	FALSE	1999999999	mboxDisable	true
+stock.adobe.com	TRUE	/	FALSE	1999999999	ff_1559257598	1
+stock.adobe.com	TRUE	/	FALSE	1999999999	isVisitorScriptAloneHosted	1
+stock.adobe.com	TRUE	/	FALSE	1999999999	maxmind_country	BR
+
