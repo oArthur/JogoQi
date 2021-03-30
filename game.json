@@ -6197,6 +6197,15 @@
         "name": "Media\\Characters GameQi\\Mouse\\Damage\\Damage-1_10.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/queijo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\queijo.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -6229,7 +6238,7 @@
         "gridWidth": 32,
         "snap": false,
         "windowMask": false,
-        "zoomFactor": 1.024
+        "zoomFactor": 1
       },
       "objectsGroups": [],
       "variables": [],
@@ -6323,8 +6332,8 @@
           "name": "SummerTile",
           "persistentUuid": "55b45694-70c5-4e3b-bdfc-3acbbea92814",
           "width": 480,
-          "x": -213,
-          "y": 447,
+          "x": -212,
+          "y": 448,
           "zOrder": 25,
           "numberProperties": [],
           "stringProperties": [],
@@ -6355,8 +6364,8 @@
           "name": "Tree3",
           "persistentUuid": "5afc4e34-6c4b-4c57-95d0-51dd5e2fb364",
           "width": 160,
-          "x": 832,
-          "y": 288,
+          "x": 845,
+          "y": 291,
           "zOrder": 27,
           "numberProperties": [],
           "stringProperties": [],
@@ -6403,8 +6412,8 @@
           "name": "Background",
           "persistentUuid": "e2405dfc-7749-431f-8681-094d643c8a9a",
           "width": 1728,
-          "x": -581,
-          "y": -528,
+          "x": -472,
+          "y": -546,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -6419,8 +6428,8 @@
           "name": "parede_inferior_boat",
           "persistentUuid": "ffa0bde7-4eb5-458c-8716-32f85aa2fe3d",
           "width": 202,
-          "x": 390,
-          "y": 499,
+          "x": 387,
+          "y": 494,
           "zOrder": 77,
           "numberProperties": [],
           "stringProperties": [],
@@ -6470,6 +6479,54 @@
           "x": 347,
           "y": 451,
           "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Stone",
+          "persistentUuid": "45cbdfa4-c904-4d5a-b77a-5ba04d7f4161",
+          "width": 0,
+          "x": 902,
+          "y": 421,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Stone",
+          "persistentUuid": "bbcc5b3c-2772-4c7e-8e3d-ab524da22188",
+          "width": 0,
+          "x": 873,
+          "y": 442,
+          "zOrder": 79,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Stone",
+          "persistentUuid": "47701e1a-8f4a-4a3b-ac9a-4043c4077be6",
+          "width": 0,
+          "x": 858,
+          "y": 69,
+          "zOrder": 80,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8514,82 +8571,6 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "KeyPressed"
-              },
-              "parameters": [
-                "",
-                "Up"
-              ],
-              "subInstructions": []
-            }
-          ],
-          "actions": [],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "BuiltinCommonInstructions::Or"
-              },
-              "parameters": [],
-              "subInstructions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "KeyPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "d"
-                  ],
-                  "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "KeyPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "Right"
-                  ],
-                  "subInstructions": []
-                }
-              ]
-            }
-          ],
-          "actions": [],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
           "actions": [
             {
@@ -8607,14 +8588,6 @@
               "subInstructions": []
             }
           ],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [],
           "events": []
         },
         {
