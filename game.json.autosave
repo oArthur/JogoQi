@@ -6035,6 +6035,168 @@
         "name": "assets\\GatoHitBox-1.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Mouse/Stoped/Stoped-1_03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Mouse\\Stoped\\Stoped-1_03.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Mouse/Stoped/Stoped-1_05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Mouse\\Stoped\\Stoped-1_05.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Mouse/Stoped/Stoped-1_07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Mouse\\Stoped\\Stoped-1_07.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Mouse/Stoped/Stoped-1_09.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Mouse\\Stoped\\Stoped-1_09.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Mouse/Run/run-1_03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Mouse\\Run\\run-1_03.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Mouse/Run/run-1_05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Mouse\\Run\\run-1_05.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Mouse/Run/run-1_07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Mouse\\Run\\run-1_07.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Mouse/Run/run-1_09.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Mouse\\Run\\run-1_09.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Mouse/Run/run-1_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Mouse\\Run\\run-1_11.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Mouse/Run/run-1_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Mouse\\Run\\run-1_13.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Mouse/Run/run-1_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Mouse\\Run\\run-1_15.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Mouse/Run/run-1_17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Mouse\\Run\\run-1_17.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Mouse/Run/run-1_19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Mouse\\Run\\run-1_19.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Mouse/Run/run-1_22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Mouse\\Run\\run-1_22.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Mouse/Damage/Damage-1_03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Mouse\\Damage\\Damage-1_03.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Mouse/Damage/Damage-1_05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Mouse\\Damage\\Damage-1_05.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Mouse/Damage/Damage-1_08.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Mouse\\Damage\\Damage-1_08.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Mouse/Damage/Damage-1_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Mouse\\Damage\\Damage-1_10.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -6057,7 +6219,7 @@
       "title": "",
       "v": 209,
       "uiSettings": {
-        "grid": true,
+        "grid": false,
         "gridB": 255,
         "gridG": 180,
         "gridHeight": 32,
@@ -6065,29 +6227,13 @@
         "gridOffsetY": 0,
         "gridR": 158,
         "gridWidth": 32,
-        "snap": true,
+        "snap": false,
         "windowMask": false,
-        "zoomFactor": 0.52
+        "zoomFactor": 1.024
       },
       "objectsGroups": [],
       "variables": [],
       "instances": [
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "ZombieBoy",
-          "persistentUuid": "fff7fd1d-4130-4205-be98-4ccf8c6f810a",
-          "width": 0,
-          "x": 118,
-          "y": -139,
-          "zOrder": 10,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
         {
           "angle": 0,
           "customSize": true,
@@ -6177,8 +6323,8 @@
           "name": "SummerTile",
           "persistentUuid": "55b45694-70c5-4e3b-bdfc-3acbbea92814",
           "width": 480,
-          "x": -192,
-          "y": 448,
+          "x": -213,
+          "y": 447,
           "zOrder": 25,
           "numberProperties": [],
           "stringProperties": [],
@@ -6250,22 +6396,6 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "boat2",
-          "persistentUuid": "c52d9ffa-13ec-4b14-8eb8-aa2f56b14578",
-          "width": 0,
-          "x": 360,
-          "y": 449,
-          "zOrder": 64,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": true,
           "height": 1120,
           "layer": "",
@@ -6273,41 +6403,9 @@
           "name": "Background",
           "persistentUuid": "e2405dfc-7749-431f-8681-094d643c8a9a",
           "width": 1728,
-          "x": -415,
-          "y": -492,
+          "x": -581,
+          "y": -528,
           "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 45,
-          "layer": "",
-          "locked": false,
-          "name": "parede_lateral_d_boat",
-          "persistentUuid": "8bc8e224-e696-4089-ad4c-d09d802df9ae",
-          "width": 15,
-          "x": 608,
-          "y": 465,
-          "zOrder": 65,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 43,
-          "layer": "",
-          "locked": false,
-          "name": "parede_lateral_e_boat",
-          "persistentUuid": "3b3c34a2-8892-4cdb-a96f-e9c415839fcf",
-          "width": 17,
-          "x": 355,
-          "y": 467,
-          "zOrder": 66,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6320,10 +6418,10 @@
           "locked": false,
           "name": "parede_inferior_boat",
           "persistentUuid": "ffa0bde7-4eb5-458c-8716-32f85aa2fe3d",
-          "width": 168,
-          "x": 414,
-          "y": 490,
-          "zOrder": 67,
+          "width": 202,
+          "x": 390,
+          "y": 499,
+          "zOrder": 77,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6337,8 +6435,8 @@
           "name": "GatoHitbox",
           "persistentUuid": "8231caad-0e91-40f7-9e7c-664dd8dfff4b",
           "width": 0,
-          "x": -15,
-          "y": 332,
+          "x": -6,
+          "y": 331,
           "zOrder": 68,
           "numberProperties": [],
           "stringProperties": [],
@@ -6353,207 +6451,31 @@
           "name": "Gato",
           "persistentUuid": "cca9a672-ce4f-4090-a059-b1eb58bbd231",
           "width": 0,
-          "x": 92,
-          "y": 330,
+          "x": -4,
+          "y": 332,
           "zOrder": 69,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "barco",
+          "persistentUuid": "202d9217-c53d-4de9-ad45-c7e82c56df29",
+          "width": 261,
+          "x": 347,
+          "y": 451,
+          "zOrder": 74,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         }
       ],
       "objects": [
-        {
-          "name": "ZombieBoy",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "Walk",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.1,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Walk_1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Walk_2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Walk_3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Walk_4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Walk_5.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Walk_6.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Walk_7.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Walk_8.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Walk_9.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombie Boy_Walk_10.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "height": 128,
           "name": "SummerTilePlatformCenter",
@@ -7074,34 +6996,6 @@
           ]
         },
         {
-          "height": 101,
-          "name": "boat1",
-          "tags": "",
-          "texture": "assets\\boat1.1.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 270,
-          "variables": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": true,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 3
-            }
-          ]
-        },
-        {
-          "height": 64,
-          "name": "boat2",
-          "tags": "",
-          "texture": "assets\\boat1.2.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 260,
-          "variables": [],
-          "behaviors": []
-        },
-        {
           "height": 1080,
           "name": "Background",
           "tags": "",
@@ -7112,101 +7006,7 @@
           "behaviors": []
         },
         {
-          "name": "parede_lateral_d_boat",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [
-            {
-              "canBeGrabbed": true,
-              "name": "Platform",
-              "platformType": "NormalPlatform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "yGrabOffset": 0
-            }
-          ],
-          "animations": [
-            {
-              "name": "parede_lateral_d_boat",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "parede_lateral_d_boat-1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "parede_inferior_boat",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [
-            {
-              "canBeGrabbed": true,
-              "name": "Platform",
-              "platformType": "NormalPlatform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "yGrabOffset": 0
-            }
-          ],
-          "animations": [
-            {
-              "name": "parede_lateral_e_boat",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "parede_lateral_e_boat-1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "parede_lateral_e_boat",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -7270,7 +7070,7 @@
               "deceleration": 1500,
               "gravity": 1000,
               "ignoreDefaultControls": false,
-              "jumpSpeed": 600,
+              "jumpSpeed": 400,
               "jumpSustainTime": 0.2,
               "ladderClimbingSpeed": 150,
               "maxFallingSpeed": 700,
@@ -8697,6 +8497,16 @@
               ]
             }
           ]
+        },
+        {
+          "height": 32,
+          "name": "barco",
+          "tags": "",
+          "texture": "assets\\boat1.2.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
         }
       ],
       "events": [
@@ -8717,19 +8527,7 @@
               "subInstructions": []
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "PlatformBehavior::SimulateJumpKey"
-              },
-              "parameters": [
-                "ZombieBoy",
-                "PlatformerObject"
-              ],
-              "subInstructions": []
-            }
-          ],
+          "actions": [],
           "events": []
         },
         {
@@ -8769,100 +8567,23 @@
               ]
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "FlipX"
-              },
-              "parameters": [
-                "ZombieBoy",
-                "no"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "PlatformBehavior::SimulateRightKey"
-              },
-              "parameters": [
-                "ZombieBoy",
-                "PlatformerObject"
-              ],
-              "subInstructions": []
-            }
-          ],
+          "actions": [],
           "events": []
         },
         {
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "ZombieBoy",
-                "",
-                "yes",
-                ""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "ZombieBoy",
-                "PlatformerObject",
-                ""
-              ],
-              "subInstructions": []
-            }
-          ],
+          "conditions": [],
+          "actions": [],
           "events": []
         },
         {
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "ZombieBoy",
-                "",
-                "yes",
-                ""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "ZombieBoy",
-                "PlatformerObject",
-                "yes"
-              ],
-              "subInstructions": []
-            }
-          ],
+          "conditions": [],
+          "actions": [],
           "events": []
         },
         {
@@ -8886,6 +8607,14 @@
               "subInstructions": []
             }
           ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
           "events": []
         },
         {
@@ -9083,6 +8812,40 @@
             {
               "type": {
                 "inverted": false,
+                "value": "PlatformBehavior::IsFalling"
+              },
+              "parameters": [
+                "GatoHitbox",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjetTxt"
+              },
+              "parameters": [
+                "GatoHitbox",
+                "Var_gato",
+                "=",
+                "\"Fall\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
                 "value": "BuiltinCommonInstructions::Or"
               },
               "parameters": [],
@@ -9231,6 +8994,14 @@
               "subInstructions": []
             }
           ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
           "events": []
         }
       ],
