@@ -6206,6 +6206,357 @@
         "name": "assets\\queijo.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Stoped/Stoped_01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Stoped\\Stoped_01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Stoped/Stoped_02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Stoped\\Stoped_02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Stoped/Stoped_04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Stoped\\Stoped_04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Stoped/Stoped_05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Stoped\\Stoped_05.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Stoped/Stoped_06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Stoped\\Stoped_06.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Run/run_01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Run\\run_01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Run/run_02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Run\\run_02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Run/run_04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Run\\run_04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Run/run_05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Run\\run_05.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Run/run_06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Run\\run_06.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Run/run_07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Run\\run_07.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Run/run_08.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Run\\run_08.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Run/run_09.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Run\\run_09.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Run/run_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Run\\run_10.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Jump/Jump_01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Jump\\Jump_01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Jump/Jump_02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Jump\\Jump_02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Jump/Jump_03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Jump\\Jump_03.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Jump/Jump_04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Jump\\Jump_04.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Jump/Jump_05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Jump\\Jump_05.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Jump/Jump_06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Jump\\Jump_06.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Jump/Jump_07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Jump\\Jump_07.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Jump/Jump_08.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Jump\\Jump_08.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Jump/Jump_09.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Jump\\Jump_09.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Jump/Jump_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Jump\\Jump_10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Jump/Jump_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Jump\\Jump_11.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Jump/Jump_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Jump\\Jump_12.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Jump/Jump_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Jump\\Jump_13.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Jump/Jump_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Jump\\Jump_14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Jump/Jump_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Jump\\Jump_15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Jump/Jump_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Jump\\Jump_16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Jump/Jump_17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Jump\\Jump_17.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Damage/Damage_01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Damage\\Damage_01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Damage/Damage_02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Damage\\Damage_02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Damage/Damage_04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Damage\\Damage_04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Damage/Damage_05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Damage\\Damage_05.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Damage/Damage_06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Damage\\Damage_06.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cat/Damage/Damage_07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cat\\Damage\\Damage_07.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CatHitBox.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\CatHitBox.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CatHitBox-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\CatHitBox-1.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -6235,6 +6586,7 @@
         "gridOffsetX": 0,
         "gridOffsetY": 0,
         "gridR": 158,
+        "gridType": "rectangular",
         "gridWidth": 32,
         "snap": false,
         "windowMask": false,
@@ -6437,38 +6789,6 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "GatoHitbox",
-          "persistentUuid": "8231caad-0e91-40f7-9e7c-664dd8dfff4b",
-          "width": 0,
-          "x": -6,
-          "y": 331,
-          "zOrder": 68,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Gato",
-          "persistentUuid": "cca9a672-ce4f-4090-a059-b1eb58bbd231",
-          "width": 0,
-          "x": -4,
-          "y": 332,
-          "zOrder": 69,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": true,
           "height": 65,
           "layer": "",
@@ -6527,6 +6847,38 @@
           "x": 858,
           "y": 69,
           "zOrder": 80,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Cat",
+          "persistentUuid": "00c66d2d-e48d-45c0-9b2d-c7ce571bd23e",
+          "width": 0,
+          "x": 13,
+          "y": 328,
+          "zOrder": 81,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "CatHitBox",
+          "persistentUuid": "443f562b-b71b-4111-a6f3-18959d779c41",
+          "width": 0,
+          "x": 10,
+          "y": 328,
+          "zOrder": 82,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -7070,10 +7422,10 @@
           "variables": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
@@ -7117,11 +7469,14 @@
           "variables": [
             {
               "name": "Var_gato",
+              "type": "string",
               "value": ""
             }
           ],
           "behaviors": [
             {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 1500,
               "canGrabPlatforms": false,
               "deceleration": 1500,
@@ -7132,10 +7487,8 @@
               "ladderClimbingSpeed": 150,
               "maxFallingSpeed": 700,
               "maxSpeed": 250,
-              "name": "PlatformerObject",
               "roundCoordinates": true,
               "slopeMaxAngle": 60,
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "xGrabTolerance": 10,
               "yGrabOffset": 0
             }
@@ -7167,20 +7520,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 26.3,
-                            "y": 4.45
+                            "x": 26.299999237060547,
+                            "y": 4.449999809265137
                           },
                           {
                             "x": 97.5,
-                            "y": 4.45
+                            "y": 4.449999809265137
                           },
                           {
-                            "x": 97.7,
-                            "y": 116.55
+                            "x": 97.69999694824219,
+                            "y": 116.55000305175781
                           },
                           {
-                            "x": 26.4,
-                            "y": 116.55
+                            "x": 26.399999618530273,
+                            "y": 116.55000305175781
                           }
                         ]
                       ]
@@ -8564,6 +8917,782 @@
           "width": 32,
           "variables": [],
           "behaviors": []
+        },
+        {
+          "name": "CatHitBox",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "Var_Cat",
+              "type": "string",
+              "value": ""
+            }
+          ],
+          "behaviors": [
+            {
+              "acceleration": 1500,
+              "canGrabPlatforms": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": false,
+              "jumpSpeed": 400,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "name": "PlatformerObject",
+              "roundCoordinates": true,
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "CatHitBox",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\CatHitBox-1.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 0,
+                          "y": 0
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26.5,
+                            "y": 0.6818181872367859
+                          },
+                          {
+                            "x": 106.18608093261719,
+                            "y": 0.6818181872367859
+                          },
+                          {
+                            "x": 106.18608093261719,
+                            "y": 120.75
+                          },
+                          {
+                            "x": 26.5,
+                            "y": 120.75
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cat",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Stoped\\Stoped_01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Stoped\\Stoped_02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Stoped\\Stoped_04.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Stoped\\Stoped_05.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Stoped\\Stoped_06.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Run",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Run\\run_01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Run\\run_02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Run\\run_04.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Run\\run_05.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Run\\run_06.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Run\\run_07.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Run\\run_08.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Run\\run_09.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Run\\run_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Jump",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Jump\\Jump_01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Jump\\Jump_02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Jump\\Jump_03.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Jump\\Jump_04.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Jump\\Jump_05.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Jump\\Jump_06.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Jump\\Jump_07.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Jump\\Jump_08.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Jump\\Jump_09.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Jump\\Jump_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Jump\\Jump_11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Jump\\Jump_12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Jump\\Jump_13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Jump\\Jump_14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Jump\\Jump_15.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Jump\\Jump_16.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Jump\\Jump_17.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dead",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Damage\\Damage_01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Damage\\Damage_02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Damage\\Damage_04.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Damage\\Damage_05.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Damage\\Damage_06.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Damage\\Damage_07.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -8579,11 +9708,11 @@
                 "value": "MettreXY"
               },
               "parameters": [
-                "Gato",
+                "Cat",
                 "=",
-                "GatoHitbox.X()",
+                "CatHitBox.X()",
                 "=",
-                "GatoHitbox.Y()"
+                "CatHitBox.Y()"
               ],
               "subInstructions": []
             }
@@ -8613,7 +9742,7 @@
                 "value": "Cache"
               },
               "parameters": [
-                "GatoHitbox"
+                "CatHitBox"
               ],
               "subInstructions": []
             }
@@ -8635,26 +9764,6 @@
               "disabled": false,
               "folded": false,
               "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "SetAnimationName"
-                  },
-                  "parameters": [
-                    "Gato",
-                    "GatoHitbox.VariableString(Var_gato)"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
                   "type": {
@@ -8662,7 +9771,7 @@
                     "value": "PlatformBehavior::IsOnFloor"
                   },
                   "parameters": [
-                    "GatoHitbox",
+                    "CatHitBox",
                     "PlatformerObject"
                   ],
                   "subInstructions": []
@@ -8681,7 +9790,7 @@
                         "value": "PlatformBehavior::IsMoving"
                       },
                       "parameters": [
-                        "GatoHitbox",
+                        "CatHitBox",
                         "PlatformerObject"
                       ],
                       "subInstructions": []
@@ -8694,8 +9803,8 @@
                         "value": "ModVarObjetTxt"
                       },
                       "parameters": [
-                        "GatoHitbox",
-                        "Var_gato",
+                        "CatHitBox",
+                        "Var_Cat",
                         "=",
                         "\"Idle\""
                       ],
@@ -8715,7 +9824,7 @@
                         "value": "PlatformBehavior::IsMoving"
                       },
                       "parameters": [
-                        "GatoHitbox",
+                        "CatHitBox",
                         "PlatformerObject"
                       ],
                       "subInstructions": []
@@ -8728,8 +9837,8 @@
                         "value": "ModVarObjetTxt"
                       },
                       "parameters": [
-                        "GatoHitbox",
-                        "Var_gato",
+                        "CatHitBox",
+                        "Var_Cat",
                         "=",
                         "\"Run\""
                       ],
@@ -8747,6 +9856,26 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Cat",
+                "CatHitBox.VariableString(Var_Cat)"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
@@ -8754,7 +9883,7 @@
                 "value": "PlatformBehavior::IsJumping"
               },
               "parameters": [
-                "GatoHitbox",
+                "CatHitBox",
                 "PlatformerObject"
               ],
               "subInstructions": []
@@ -8767,8 +9896,8 @@
                 "value": "ModVarObjetTxt"
               },
               "parameters": [
-                "GatoHitbox",
-                "Var_gato",
+                "CatHitBox",
+                "Var_Cat",
                 "=",
                 "\"Jump\""
               ],
@@ -8788,7 +9917,7 @@
                 "value": "PlatformBehavior::IsFalling"
               },
               "parameters": [
-                "GatoHitbox",
+                "CatHitBox",
                 "PlatformerObject"
               ],
               "subInstructions": []
@@ -8801,8 +9930,8 @@
                 "value": "ModVarObjetTxt"
               },
               "parameters": [
-                "GatoHitbox",
-                "Var_gato",
+                "CatHitBox",
+                "Var_Cat",
                 "=",
                 "\"Fall\""
               ],
@@ -8855,7 +9984,7 @@
                 "value": "FlipX"
               },
               "parameters": [
-                "Gato",
+                "Cat",
                 "yes"
               ],
               "subInstructions": []
@@ -8866,7 +9995,7 @@
                 "value": "PlatformBehavior::SimulateLeftKey"
               },
               "parameters": [
-                "GatoHitbox",
+                "CatHitBox",
                 "PlatformerObject"
               ],
               "subInstructions": []
@@ -8918,7 +10047,7 @@
                 "value": "FlipX"
               },
               "parameters": [
-                "Gato",
+                "Cat",
                 "no"
               ],
               "subInstructions": []
@@ -8929,7 +10058,7 @@
                 "value": "PlatformBehavior::SimulateRightKey"
               },
               "parameters": [
-                "GatoHitbox",
+                "CatHitBox",
                 "PlatformerObject"
               ],
               "subInstructions": []
@@ -8961,7 +10090,7 @@
                 "value": "PlatformBehavior::SimulateJumpKey"
               },
               "parameters": [
-                "GatoHitbox",
+                "CatHitBox",
                 "PlatformerObject"
               ],
               "subInstructions": []
@@ -8976,6 +10105,19 @@
           "conditions": [],
           "actions": [],
           "events": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "disabled": false,
+          "folded": false,
+          "name": "",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [],
+          "parameters": []
         }
       ],
       "layers": [
