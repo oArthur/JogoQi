@@ -6957,6 +6957,15 @@
           "identifier": "https://resources.gdevelop-app.com/assets/On-Screen Controls/Sprites/Flat Dark/Select button.png",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Cheese/queijo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Cheese\\queijo.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -6990,7 +6999,7 @@
         "gridWidth": 32,
         "snap": false,
         "windowMask": false,
-        "zoomFactor": 0.8799999999999999
+        "zoomFactor": 1
       },
       "objectsGroups": [],
       "variables": [],
@@ -7164,8 +7173,8 @@
           "name": "GatoHitBox",
           "persistentUuid": "443f562b-b71b-4111-a6f3-18959d779c41",
           "width": 0,
-          "x": 10,
-          "y": 328,
+          "x": -31,
+          "y": 329,
           "zOrder": 82,
           "numberProperties": [],
           "stringProperties": [],
@@ -7180,8 +7189,8 @@
           "name": "Rato",
           "persistentUuid": "26ab78d6-f71b-4d4f-90b2-79001f41290c",
           "width": 0,
-          "x": 118,
-          "y": 329,
+          "x": 136,
+          "y": 335,
           "zOrder": 83,
           "numberProperties": [],
           "stringProperties": [],
@@ -7196,8 +7205,8 @@
           "name": "RatoHitBox",
           "persistentUuid": "13000dea-ce2f-4980-a49a-f866b5bf7c0f",
           "width": 0,
-          "x": 119,
-          "y": 329,
+          "x": 139,
+          "y": 333,
           "zOrder": 84,
           "numberProperties": [],
           "stringProperties": [],
@@ -7244,8 +7253,8 @@
           "name": "Gato",
           "persistentUuid": "2509903a-2caf-49c0-983a-6ef5742afff2",
           "width": 0,
-          "x": 11,
-          "y": 326,
+          "x": -30,
+          "y": 331,
           "zOrder": 87,
           "numberProperties": [],
           "stringProperties": [],
@@ -7279,6 +7288,22 @@
           "x": 132,
           "y": 45,
           "zOrder": 101,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Queijo",
+          "persistentUuid": "08abd6d7-f7b1-44fe-bbb1-c1af9c2e81eb",
+          "width": 0,
+          "x": 92,
+          "y": 390,
+          "zOrder": 102,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -10350,6 +10375,45 @@
             "g": 0,
             "r": 0
           }
+        },
+        {
+          "name": "Queijo",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cheese\\queijo.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -11219,32 +11283,76 @@
                   "subInstructions": []
                 }
               ],
-              "actions": [
+              "actions": [],
+              "events": [
                 {
-                  "type": {
-                    "inverted": false,
-                    "value": "ActivateBehavior"
-                  },
-                  "parameters": [
-                    "GatoHitBox",
-                    "PlatformerObject",
-                    "yes"
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "MouseButtonPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ],
+                      "subInstructions": []
+                    }
                   ],
-                  "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "TextObject::ChangeColor"
-                  },
-                  "parameters": [
-                    "buttonGato",
-                    "\"255;22;22\""
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ActivateBehavior"
+                      },
+                      "parameters": [
+                        "GatoHitBox",
+                        "PlatformerObject",
+                        "yes"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "buttonGato",
+                        "\"255;22;22\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ActivateBehavior"
+                      },
+                      "parameters": [
+                        "RatoHitBox",
+                        "PlatformerObject",
+                        "no"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "buttonRato",
+                        "\"0;0;0\""
+                      ],
+                      "subInstructions": []
+                    }
                   ],
-                  "subInstructions": []
+                  "events": []
                 }
-              ],
-              "events": []
+              ]
             },
             {
               "disabled": false,
@@ -11253,99 +11361,7 @@
               "conditions": [
                 {
                   "type": {
-                    "inverted": true,
-                    "value": "SourisSurObjet"
-                  },
-                  "parameters": [
-                    "buttonGato",
-                    "",
-                    "",
-                    ""
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
                     "inverted": false,
-                    "value": "ActivateBehavior"
-                  },
-                  "parameters": [
-                    "GatoHitBox",
-                    "PlatformerObject",
-                    "no"
-                  ],
-                  "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "TextObject::ChangeColor"
-                  },
-                  "parameters": [
-                    "buttonGato",
-                    "\"0;0;0\""
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "SourisSurObjet"
-                  },
-                  "parameters": [
-                    "buttonRato",
-                    "",
-                    "",
-                    ""
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "ActivateBehavior"
-                  },
-                  "parameters": [
-                    "RatoHitBox",
-                    "PlatformerObject",
-                    "yes"
-                  ],
-                  "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "TextObject::ChangeColor"
-                  },
-                  "parameters": [
-                    "buttonRato",
-                    "\"255;22;22\""
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": true,
                     "value": "SourisSurObjet"
                   },
                   "parameters": [
@@ -11357,32 +11373,76 @@
                   "subInstructions": []
                 }
               ],
-              "actions": [
+              "actions": [],
+              "events": [
                 {
-                  "type": {
-                    "inverted": false,
-                    "value": "ActivateBehavior"
-                  },
-                  "parameters": [
-                    "RatoHitBox",
-                    "PlatformerObject",
-                    "no"
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "MouseButtonPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ],
+                      "subInstructions": []
+                    }
                   ],
-                  "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "TextObject::ChangeColor"
-                  },
-                  "parameters": [
-                    "buttonRato",
-                    "\"0;0;0\""
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ActivateBehavior"
+                      },
+                      "parameters": [
+                        "GatoHitBox",
+                        "PlatformerObject",
+                        "no"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "buttonRato",
+                        "\"255;22;22\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ActivateBehavior"
+                      },
+                      "parameters": [
+                        "RatoHitBox",
+                        "PlatformerObject",
+                        "yes"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "buttonGato",
+                        "\"0;0;0\""
+                      ],
+                      "subInstructions": []
+                    }
                   ],
-                  "subInstructions": []
+                  "events": []
                 }
-              ],
-              "events": []
+              ]
             }
           ],
           "parameters": []
