@@ -20,7 +20,7 @@
     "author": "Name not Found",
     "windowWidth": 960,
     "windowHeight": 540,
-    "latestCompilationDirectory": "",
+    "latestCompilationDirectory": "C:\\Users\\Angela Souza\\Documents\\Buttons",
     "maxFPS": 60,
     "minFPS": 20,
     "verticalSync": false,
@@ -7047,6 +7047,105 @@
         "name": "assets\\water_all.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Media/Characters GameQi/Background/background_game/PNG/game_background_4/game_background_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Media\\Characters GameQi\\Background\\background_game\\PNG\\game_background_4\\game_background_4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "button1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "button1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "button1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "button1-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "button2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "button2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "button2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "button2-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "button3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "button3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "button3-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "button3-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "button2-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "button2-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Play Button.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Play Button.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/podio button.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\podio button.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/settings.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\settings.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -7061,6 +7160,992 @@
     }
   ],
   "layouts": [
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Menu",
+      "name": "Menu",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridB": 255,
+        "gridG": 180,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridR": 158,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "snap": true,
+        "windowMask": false,
+        "zoomFactor": 0.8
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 550,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject",
+          "persistentUuid": "2cdaa820-b1fb-490e-89f8-80ee70604ea8",
+          "width": 966,
+          "x": -2,
+          "y": -3,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 119,
+          "layer": "",
+          "locked": false,
+          "name": "button1",
+          "persistentUuid": "9d28739a-9723-4963-b0b5-bb3eb6d7c034",
+          "width": 119,
+          "x": 400,
+          "y": 342,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 93,
+          "layer": "",
+          "locked": false,
+          "name": "button2",
+          "persistentUuid": "38550387-2f8a-41e3-b19b-31dc11064d29",
+          "width": 96,
+          "x": 230,
+          "y": 377,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "button3",
+          "persistentUuid": "9617cb6c-2293-4365-b5a0-2d0121ce907b",
+          "width": 103,
+          "x": 590,
+          "y": 377,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Status",
+          "persistentUuid": "8518d0ce-c234-40b0-a289-a5b66a1073c3",
+          "width": 0,
+          "x": 20,
+          "y": 17,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "name": "NewObject",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Background\\background_game\\PNG\\game_background_4\\game_background_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "button1",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "play",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Play Button.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "button2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\podio button.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "button3",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\settings.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "Status",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "STATUS",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        }
+      ],
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "button1",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Tween::AddObjectScaleTween"
+                  },
+                  "parameters": [
+                    "button1",
+                    "Tween",
+                    "\"Hover\"",
+                    "1.0\n",
+                    "1.0",
+                    "\"bouncePast\"",
+                    "100",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "MouseButtonPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "Left"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Tween::AddObjectScaleTween"
+                  },
+                  "parameters": [
+                    "button1",
+                    "Tween",
+                    "\"Press\"",
+                    "0.8",
+                    "0.8",
+                    "\"easeOutQuad\"",
+                    "50",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "MouseButtonReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "Left"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Tween::AddObjectScaleTween"
+                  },
+                  "parameters": [
+                    "button1",
+                    "Tween",
+                    "\"Press\"",
+                    "1",
+                    "1",
+                    "\"easeOutQuad\"",
+                    "100",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "Status",
+                    "=",
+                    "\"Play pressed\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Fase 1 Cena 1\"",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "button1",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Tween::AddObjectScaleTween"
+              },
+              "parameters": [
+                "button1",
+                "Tween",
+                "\"Press\"",
+                "0.9",
+                "0.9",
+                "\"bouncePast\"",
+                "50",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "button2",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Tween::AddObjectScaleTween"
+                  },
+                  "parameters": [
+                    "button2",
+                    "Tween",
+                    "\"Hover\"",
+                    "1.0\n",
+                    "1.0",
+                    "\"bouncePast\"",
+                    "100",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "MouseButtonPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "Left"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Tween::AddObjectScaleTween"
+                  },
+                  "parameters": [
+                    "button2",
+                    "Tween",
+                    "\"Press\"",
+                    "0.8",
+                    "0.8",
+                    "\"easeOutQuad\"",
+                    "50",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "MouseButtonReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "Left"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Tween::AddObjectScaleTween"
+                  },
+                  "parameters": [
+                    "button2",
+                    "Tween",
+                    "\"Press\"",
+                    "1.0",
+                    "1.0",
+                    "\"easeOutQuad\"",
+                    "100",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "Status",
+                    "=",
+                    "\"Play pressed\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "button2",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Tween::AddObjectScaleTween"
+              },
+              "parameters": [
+                "button2",
+                "Tween",
+                "\"Press\"",
+                "0.9",
+                "0.9",
+                "\"bouncePast\"",
+                "50",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "button3",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Tween::AddObjectScaleTween"
+                  },
+                  "parameters": [
+                    "button3",
+                    "Tween",
+                    "\"Hover\"",
+                    "1.0\n",
+                    "1.0",
+                    "\"bouncePast\"",
+                    "100",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "MouseButtonPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "Left"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Tween::AddObjectScaleTween"
+                  },
+                  "parameters": [
+                    "button3",
+                    "Tween",
+                    "\"Press\"",
+                    "0.8",
+                    "0.8",
+                    "\"easeOutQuad\"",
+                    "50",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "MouseButtonReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "Left"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Tween::AddObjectScaleTween"
+                  },
+                  "parameters": [
+                    "button3",
+                    "Tween",
+                    "\"Press\"",
+                    "1",
+                    "1",
+                    "\"easeOutQuad\"",
+                    "100",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "Status",
+                    "=",
+                    "\"Play pressed\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "button1",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Tween::AddObjectScaleTween"
+              },
+              "parameters": [
+                "button3",
+                "Tween",
+                "\"Press\"",
+                "0.9",
+                "0.9",
+                "\"bouncePast\"",
+                "50",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 7876688,
+          "ambientLightColorG": 8133288,
+          "ambientLightColorR": 8120424,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ]
+    },
     {
       "b": 209,
       "disableInputWhenNotFocused": true,
@@ -7196,8 +8281,8 @@
           "name": "barco",
           "persistentUuid": "202d9217-c53d-4de9-ad45-c7e82c56df29",
           "width": 261,
-          "x": 405,
-          "y": 430,
+          "x": 355,
+          "y": 262,
           "zOrder": 100,
           "numberProperties": [],
           "stringProperties": [],
@@ -7324,8 +8409,8 @@
           "name": "buttonRato",
           "persistentUuid": "71f21f84-8b4a-4c4d-bd51-1299cab99bb6",
           "width": 0,
-          "x": 105,
-          "y": 83,
+          "x": 111,
+          "y": 87,
           "zOrder": 101,
           "numberProperties": [],
           "stringProperties": [],
@@ -7356,8 +8441,8 @@
           "name": "Barqueiro",
           "persistentUuid": "72863a83-0e82-4a02-afd6-bb2188b52de5",
           "width": 0,
-          "x": 570,
-          "y": 100,
+          "x": 659,
+          "y": 87,
           "zOrder": 103,
           "numberProperties": [],
           "stringProperties": [],
@@ -9523,7 +10608,26 @@
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
-          "behaviors": []
+          "behaviors": [
+            {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "acceleration": 1500,
+              "canGrabPlatforms": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": false,
+              "jumpSpeed": 0,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "roundCoordinates": true,
+              "slopeMaxAngle": 60,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ]
         },
         {
           "name": "GatoHitBox",
@@ -11615,75 +12719,6 @@
                 }
               ],
               "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "GatoHitBox",
-                    "wather_top",
-                    "",
-                    "",
-                    ""
-                  ],
-                  "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": [],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "ModVarGlobal"
-                  },
-                  "parameters": [
-                    "lifes",
-                    "-",
-                    "1"
-                  ],
-                  "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "Flash::Flash::Flash"
-                  },
-                  "parameters": [
-                    "Gato",
-                    "Flash",
-                    "2",
-                    ""
-                  ],
-                  "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "MettreX"
-                  },
-                  "parameters": [
-                    "GatoHitBox",
-                    "=",
-                    "-12"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
             }
           ],
           "parameters": []
@@ -11836,6 +12871,63 @@
                     "var_Rato",
                     "=",
                     "\"Jump\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "GatoHitBox",
+                    "barco",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "lifes",
+                    "-",
+                    "1"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Flash::Flash::Flash"
+                  },
+                  "parameters": [
+                    "Gato",
+                    "Flash",
+                    "2",
+                    ""
                   ],
                   "subInstructions": []
                 }
@@ -12379,40 +13471,6 @@
                   "events": []
                 }
               ]
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "VarGlobal"
-                  },
-                  "parameters": [
-                    "lifes",
-                    "=",
-                    "0"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Lose game Dead Cat\"",
-                    ""
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
             }
           ],
           "parameters": []
@@ -12456,394 +13514,9 @@
           "type": "PlatformBehavior::PlatformerObjectBehavior"
         }
       ]
-    },
-    {
-      "b": 209,
-      "disableInputWhenNotFocused": true,
-      "mangledName": "Lose_32game_32Dead_32Cat",
-      "name": "Lose game Dead Cat",
-      "oglFOV": 90,
-      "oglZFar": 500,
-      "oglZNear": 1,
-      "r": 209,
-      "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
-      "title": "",
-      "v": 209,
-      "uiSettings": {
-        "grid": false,
-        "gridB": 255,
-        "gridG": 180,
-        "gridHeight": 32,
-        "gridOffsetX": 0,
-        "gridOffsetY": 0,
-        "gridR": 158,
-        "gridType": "rectangular",
-        "gridWidth": 32,
-        "snap": true,
-        "windowMask": false,
-        "zoomFactor": 1
-      },
-      "objectsGroups": [],
-      "variables": [],
-      "instances": [
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 135,
-          "layer": "",
-          "locked": false,
-          "name": "texxto",
-          "persistentUuid": "af07d07d-8228-4f84-8fbc-429e7111ec95",
-          "width": 355,
-          "x": 313,
-          "y": 175,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Restart",
-          "persistentUuid": "89037124-745c-4162-8870-35fa25126d59",
-          "width": 0,
-          "x": 369,
-          "y": 393,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        }
-      ],
-      "objects": [
-        {
-          "bold": true,
-          "italic": false,
-          "name": "texxto",
-          "smoothed": true,
-          "tags": "",
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "behaviors": [],
-          "string": "VOCE PERDEU!\n\nSEU GATO MORREU.",
-          "font": "",
-          "characterSize": 35,
-          "color": {
-            "b": 27,
-            "g": 2,
-            "r": 208
-          }
-        },
-        {
-          "bold": false,
-          "italic": false,
-          "name": "Restart",
-          "smoothed": true,
-          "tags": "",
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "behaviors": [],
-          "string": "CLICK TO RESTART",
-          "font": "",
-          "characterSize": 20,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
-          }
-        }
-      ],
-      "events": [
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "Restart",
-                "",
-                "",
-                ""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "actions": [],
-          "events": [
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "MouseButtonReleased"
-                  },
-                  "parameters": [
-                    "",
-                    "Left"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Fase 1 Cena 1\"",
-                    ""
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            }
-          ]
-        }
-      ],
-      "layers": [
-        {
-          "ambientLightColorB": 9762832,
-          "ambientLightColorG": 9826968,
-          "ambientLightColorR": 7899056,
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "name": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ],
-      "behaviorsSharedData": []
     }
   ],
-  "externalEvents": [
-    {
-      "associatedLayout": "Fase 1 Cena 1",
-      "lastChangeTimeStamp": 0,
-      "name": "GameControler",
-      "events": [
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "DepartScene"
-              },
-              "parameters": [
-                ""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "ModVarGlobal"
-              },
-              "parameters": [
-                "lifes",
-                "=",
-                "4"
-              ],
-              "subInstructions": []
-            }
-          ],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "VarGlobal"
-              },
-              "parameters": [
-                "lifes",
-                ">",
-                "0"
-              ],
-              "subInstructions": []
-            }
-          ],
-          "actions": [],
-          "events": [
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "VarGlobal"
-                  },
-                  "parameters": [
-                    "lifes",
-                    "=",
-                    "4"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "ChangeAnimation"
-                  },
-                  "parameters": [
-                    "LifeHub",
-                    "=",
-                    "3"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "VarGlobal"
-                  },
-                  "parameters": [
-                    "lifes",
-                    "=",
-                    "3"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "ChangeAnimation"
-                  },
-                  "parameters": [
-                    "LifeHub",
-                    "=",
-                    "2"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "VarGlobal"
-                  },
-                  "parameters": [
-                    "lifes",
-                    "=",
-                    "2"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "ChangeAnimation"
-                  },
-                  "parameters": [
-                    "LifeHub",
-                    "=",
-                    "1"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "VarGlobal"
-                  },
-                  "parameters": [
-                    "lifes",
-                    "=",
-                    "1"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "ChangeAnimation"
-                  },
-                  "parameters": [
-                    "LifeHub",
-                    "=",
-                    "0"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            }
-          ]
-        }
-      ]
-    }
-  ],
+  "externalEvents": [],
   "eventsFunctionsExtensions": [
     {
       "author": "@4ian",
