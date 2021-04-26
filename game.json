@@ -8743,7 +8743,7 @@
           "name": "buttonRato",
           "persistentUuid": "71f21f84-8b4a-4c4d-bd51-1299cab99bb6",
           "width": 0,
-          "x": 111,
+          "x": 108,
           "y": 87,
           "zOrder": 101,
           "numberProperties": [],
@@ -13787,7 +13787,20 @@
                   "subInstructions": []
                 }
               ],
-              "actions": [],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangeAnimation"
+                  },
+                  "parameters": [
+                    "LifeHub",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ],
               "events": [
                 {
                   "disabled": false,
