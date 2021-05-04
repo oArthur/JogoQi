@@ -7434,6 +7434,33 @@
         "name": "Media\\menu\\button.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jangada_test.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\jangada_test.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jangada.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\jangada.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "jagadaHiBox-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "jagadaHiBox-1.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -8505,7 +8532,7 @@
         "gridWidth": 32,
         "snap": false,
         "windowMask": false,
-        "zoomFactor": 0.96
+        "zoomFactor": 1.04
       },
       "objectsGroups": [],
       "variables": [],
@@ -8599,8 +8626,8 @@
           "name": "Background",
           "persistentUuid": "e2405dfc-7749-431f-8681-094d643c8a9a",
           "width": 1728,
-          "x": -652,
-          "y": -522,
+          "x": -495,
+          "y": -553,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -8615,8 +8642,8 @@
           "name": "barco",
           "persistentUuid": "202d9217-c53d-4de9-ad45-c7e82c56df29",
           "width": 261,
-          "x": 520,
-          "y": 433,
+          "x": 372,
+          "y": 635,
           "zOrder": 100,
           "numberProperties": [],
           "stringProperties": [],
@@ -8647,9 +8674,9 @@
           "name": "Rato",
           "persistentUuid": "26ab78d6-f71b-4d4f-90b2-79001f41290c",
           "width": 0,
-          "x": 136,
-          "y": 335,
-          "zOrder": 83,
+          "x": 143,
+          "y": 332,
+          "zOrder": 100,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8663,8 +8690,8 @@
           "name": "RatoHitBox",
           "persistentUuid": "13000dea-ce2f-4980-a49a-f866b5bf7c0f",
           "width": 0,
-          "x": 135,
-          "y": 336,
+          "x": 143,
+          "y": 333,
           "zOrder": 84,
           "numberProperties": [],
           "stringProperties": [],
@@ -8713,7 +8740,7 @@
           "width": 0,
           "x": -12,
           "y": 330,
-          "zOrder": 87,
+          "zOrder": 100,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8728,7 +8755,7 @@
           "persistentUuid": "060e5e94-ffdd-4608-b4a7-453af1d45b14",
           "width": 0,
           "x": 32,
-          "y": 84,
+          "y": 90,
           "zOrder": 88,
           "numberProperties": [],
           "stringProperties": [],
@@ -8743,8 +8770,8 @@
           "name": "buttonRato",
           "persistentUuid": "71f21f84-8b4a-4c4d-bd51-1299cab99bb6",
           "width": 0,
-          "x": 108,
-          "y": 87,
+          "x": 110,
+          "y": 90,
           "zOrder": 101,
           "numberProperties": [],
           "stringProperties": [],
@@ -9135,6 +9162,70 @@
           "x": 263,
           "y": 512,
           "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "BarcoHitBox",
+          "persistentUuid": "40fad245-2c2b-48f3-93f9-159f1d9fb33a",
+          "width": 0,
+          "x": 640,
+          "y": 646,
+          "zOrder": 106,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "buttonBarco",
+          "persistentUuid": "a7176a24-ec51-4fde-9753-a2fa541051ee",
+          "width": 0,
+          "x": 181,
+          "y": 90,
+          "zOrder": 107,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject",
+          "persistentUuid": "470fafc7-fa55-4d7a-bc85-2d691ef73d28",
+          "width": 0,
+          "x": 275,
+          "y": 641,
+          "zOrder": 99,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "JangadaHitBox",
+          "persistentUuid": "c4838fce-93aa-4477-82eb-439414ab91e2",
+          "width": 0,
+          "x": 480,
+          "y": 261,
+          "zOrder": 108,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -10900,6 +10991,7 @@
           ],
           "behaviors": [
             {
+              "jumpSpeed": 400,
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 1500,
@@ -10907,7 +10999,6 @@
               "deceleration": 1500,
               "gravity": 1000,
               "ignoreDefaultControls": false,
-              "jumpSpeed": 400,
               "jumpSustainTime": 0.2,
               "ladderClimbingSpeed": 150,
               "maxFallingSpeed": 700,
@@ -12462,6 +12553,255 @@
               ]
             }
           ]
+        },
+        {
+          "name": "BarcoHitBox",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "Mov_Barco",
+              "type": "string",
+              "value": ""
+            }
+          ],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            },
+            {
+              "acceleration": 1500,
+              "canGrabPlatforms": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": false,
+              "jumpSpeed": 0,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 0,
+              "maxFallingSpeed": 0,
+              "maxSpeed": 250,
+              "name": "PlatformerObject",
+              "roundCoordinates": true,
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\BoatHitBox.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 27.5
+                          },
+                          {
+                            "x": 8,
+                            "y": 10.5
+                          },
+                          {
+                            "x": 49,
+                            "y": 10
+                          },
+                          {
+                            "x": 59,
+                            "y": 52.5
+                          }
+                        ],
+                        [
+                          {
+                            "x": 48,
+                            "y": 26
+                          },
+                          {
+                            "x": 233,
+                            "y": 27
+                          },
+                          {
+                            "x": 229,
+                            "y": 60.5
+                          },
+                          {
+                            "x": 79,
+                            "y": 57.5
+                          }
+                        ],
+                        [
+                          {
+                            "x": 203,
+                            "y": 11
+                          },
+                          {
+                            "x": 245,
+                            "y": 8
+                          },
+                          {
+                            "x": 244,
+                            "y": 48
+                          },
+                          {
+                            "x": 220,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bold": true,
+          "italic": false,
+          "name": "buttonBarco",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Barco",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "name": "NewObject",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\jangada.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "JangadaHitBox",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            },
+            {
+              "acceleration": 1500,
+              "canGrabPlatforms": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": false,
+              "jumpSpeed": 0,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 0,
+              "maxFallingSpeed": 0,
+              "maxSpeed": 250,
+              "name": "PlatformerObject",
+              "roundCoordinates": true,
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "jagadaHiBox",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "jagadaHiBox-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -12518,6 +12858,20 @@
                     "GatoHitBox.Y()"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "barco",
+                    "=",
+                    "BarcoHitBox.X()",
+                    "=",
+                    "BarcoHitBox.Y()"
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": []
@@ -12562,6 +12916,16 @@
                 {
                   "type": {
                     "inverted": false,
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "BarcoHitBox"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
                     "value": "ActivateBehavior"
                   },
                   "parameters": [
@@ -12578,6 +12942,18 @@
                   },
                   "parameters": [
                     "RatoHitBox",
+                    "PlatformerObject",
+                    "no"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "BarcoHitBox",
                     "PlatformerObject",
                     "no"
                   ],
@@ -13115,6 +13491,29 @@
                     {
                       "type": {
                         "inverted": false,
+                        "value": "ActivateBehavior"
+                      },
+                      "parameters": [
+                        "BarcoHitBox",
+                        "PlatformerObject",
+                        "no"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "buttonBarco",
+                        "\"0;0;0\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
                         "value": "TextObject::ChangeColor"
                       },
                       "parameters": [
@@ -13146,6 +13545,32 @@
                         "mov_Rato",
                         "=",
                         "\"off\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjetTxt"
+                      },
+                      "parameters": [
+                        "BarcoHitBox",
+                        "mov_Rato",
+                        "=",
+                        "\"off\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlatformBehavior::Acceleration"
+                      },
+                      "parameters": [
+                        "GatoHitBox",
+                        "PlatformerObject",
+                        "=",
+                        "1500"
                       ],
                       "subInstructions": []
                     }
@@ -13240,6 +13665,29 @@
                     {
                       "type": {
                         "inverted": false,
+                        "value": "ActivateBehavior"
+                      },
+                      "parameters": [
+                        "BarcoHitBox",
+                        "PlatformerObject",
+                        "no"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "buttonBarco",
+                        "\"0;0;0\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
                         "value": "TextObject::ChangeColor"
                       },
                       "parameters": [
@@ -13271,6 +13719,210 @@
                         "mov_Rato",
                         "=",
                         "\"on\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjetTxt"
+                      },
+                      "parameters": [
+                        "BarcoHitBox",
+                        "mov_Rato",
+                        "=",
+                        "\"off\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlatformBehavior::Acceleration"
+                      },
+                      "parameters": [
+                        "RatoHitBox",
+                        "PlatformerObject",
+                        "=",
+                        "1500"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ]
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "buttonBarco",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "MouseButtonPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ActivateBehavior"
+                      },
+                      "parameters": [
+                        "GatoHitBox",
+                        "PlatformerObject",
+                        "yes"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "buttonBarco",
+                        "\"255;22;22\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ActivateBehavior"
+                      },
+                      "parameters": [
+                        "RatoHitBox",
+                        "PlatformerObject",
+                        "yes"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ActivateBehavior"
+                      },
+                      "parameters": [
+                        "BarcoHitBox",
+                        "PlatformerObject",
+                        "yes"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "buttonGato",
+                        "\"0;0;0\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "buttonRato",
+                        "\"0;0;0\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjetTxt"
+                      },
+                      "parameters": [
+                        "GatoHitBox",
+                        "mov_cat",
+                        "=",
+                        "\"off\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjetTxt"
+                      },
+                      "parameters": [
+                        "RatoHitBox",
+                        "mov_Rato",
+                        "=",
+                        "\"off\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjetTxt"
+                      },
+                      "parameters": [
+                        "BarcoHitBox",
+                        "mov_Rato",
+                        "=",
+                        "\"on\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlatformBehavior::Acceleration"
+                      },
+                      "parameters": [
+                        "RatoHitBox",
+                        "PlatformerObject",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlatformBehavior::Acceleration"
+                      },
+                      "parameters": [
+                        "GatoHitBox",
+                        "PlatformerObject",
+                        "=",
+                        "0"
                       ],
                       "subInstructions": []
                     }
@@ -16619,6 +17271,110 @@
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "author": "@4ian",
+      "description": "Move the object linearly, according to the speed configured on X and Y axis. Useful for simple enemies, bullets or objects following a straight line on the screen.",
+      "extensionNamespace": "",
+      "fullName": "Linear Movement",
+      "helpPath": "",
+      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLXJheS1zdGFydC1hcnJvdyIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0yMywxMkwxOSwxNlYxM0g2LjgzQzYuNDIsMTQuMTcgNS4zMSwxNSA0LDE1QTMsMyAwIDAsMSAxLDEyQTMsMyAwIDAsMSA0LDlDNS4zMSw5IDYuNDIsOS44MyA2LjgzLDExSDE5VjhMMjMsMTJaIiAvPjwvc3ZnPg==",
+      "name": "LinearMovement",
+      "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/ray-start-arrow.svg",
+      "shortDescription": "Move the object linearly, according to the speed configured on X and Y axis. Useful for simple enemies, bullets or objects following a straight line on the screen.",
+      "version": "0.0.1",
+      "tags": [
+        "line",
+        "movement",
+        "linear"
+      ],
+      "dependencies": [],
+      "eventsFunctions": [],
+      "eventsBasedBehaviors": [
+        {
+          "description": "Move the object linearly, according to the speed configured on X and Y axis. Useful for simple enemies, bullets or objects following a straight line on the screen.",
+          "fullName": "Linear movement",
+          "name": "LinearMovement",
+          "objectType": "",
+          "eventsFunctions": [
+            {
+              "description": "",
+              "fullName": "",
+              "functionType": "Action",
+              "name": "doStepPreEvents",
+              "private": false,
+              "sentence": "",
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "AddForceXY"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Object.Behavior::PropertySpeedX()",
+                        "Object.Behavior::PropertySpeedY()",
+                        ""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ],
+              "parameters": [
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Object",
+                  "longDescription": "",
+                  "name": "Object",
+                  "optional": false,
+                  "supplementaryInformation": "",
+                  "type": "object"
+                },
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Behavior",
+                  "longDescription": "",
+                  "name": "Behavior",
+                  "optional": false,
+                  "supplementaryInformation": "LinearMovement::LinearMovement",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            }
+          ],
+          "propertyDescriptors": [
+            {
+              "value": "0",
+              "type": "Number",
+              "label": "Speed on X axis",
+              "description": "",
+              "extraInformation": [],
+              "hidden": false,
+              "name": "SpeedX"
+            },
+            {
+              "value": "0",
+              "type": "Number",
+              "label": "Speed on Y axis",
+              "description": "",
+              "extraInformation": [],
+              "hidden": false,
+              "name": "SpeedY"
+            }
+          ]
+        }
+      ]
+    },
     {
       "author": "@4ian",
       "description": "Make the object flash (blink) for a period of time, so that it is alternately visible and invisible.\nAfter adding this to an object, you have to **trigger the effect** by using the **Flash action**.",
