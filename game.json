@@ -8532,7 +8532,7 @@
         "gridWidth": 32,
         "snap": false,
         "windowMask": false,
-        "zoomFactor": 1.04
+        "zoomFactor": 0.94
       },
       "objectsGroups": [],
       "variables": [],
@@ -8629,22 +8629,6 @@
           "x": -495,
           "y": -553,
           "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 65,
-          "layer": "",
-          "locked": false,
-          "name": "barco",
-          "persistentUuid": "202d9217-c53d-4de9-ad45-c7e82c56df29",
-          "width": 261,
-          "x": 372,
-          "y": 635,
-          "zOrder": 100,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -9172,22 +9156,6 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "BarcoHitBox",
-          "persistentUuid": "40fad245-2c2b-48f3-93f9-159f1d9fb33a",
-          "width": 0,
-          "x": 640,
-          "y": 646,
-          "zOrder": 106,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
           "name": "buttonBarco",
           "persistentUuid": "a7176a24-ec51-4fde-9753-a2fa541051ee",
           "width": 0,
@@ -9204,11 +9172,11 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "NewObject",
+          "name": "Jangada",
           "persistentUuid": "470fafc7-fa55-4d7a-bc85-2d691ef73d28",
           "width": 0,
-          "x": 275,
-          "y": 641,
+          "x": 479,
+          "y": 263,
           "zOrder": 99,
           "numberProperties": [],
           "stringProperties": [],
@@ -12559,13 +12527,7 @@
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [
-            {
-              "name": "Mov_Barco",
-              "type": "string",
-              "value": ""
-            }
-          ],
+          "variables": [],
           "behaviors": [
             {
               "canBeGrabbed": true,
@@ -12700,7 +12662,7 @@
           }
         },
         {
-          "name": "NewObject",
+          "name": "Jangada",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -12743,7 +12705,13 @@
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "name": "Mov_Barco",
+              "type": "string",
+              "value": ""
+            }
+          ],
           "behaviors": [
             {
               "canBeGrabbed": true,
@@ -12781,7 +12749,7 @@
                   "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "jagadaHiBox-1.png",
                       "points": [],
                       "originPoint": {
@@ -12795,7 +12763,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 31,
+                            "y": 216.5
+                          },
+                          {
+                            "x": 305,
+                            "y": 210.5
+                          },
+                          {
+                            "x": 315.3385314941406,
+                            "y": 235.8333282470703
+                          },
+                          {
+                            "x": 43.671875,
+                            "y": 239.1666717529297
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -12865,11 +12852,11 @@
                     "value": "MettreXY"
                   },
                   "parameters": [
-                    "barco",
+                    "Jangada",
                     "=",
-                    "BarcoHitBox.X()",
+                    "JangadaHitBox.X()",
                     "=",
-                    "BarcoHitBox.Y()"
+                    "JangadaHitBox.Y()"
                   ],
                   "subInstructions": []
                 }
@@ -12919,7 +12906,7 @@
                     "value": "Cache"
                   },
                   "parameters": [
-                    "BarcoHitBox"
+                    "JangadaHitBox"
                   ],
                   "subInstructions": []
                 },
@@ -12953,7 +12940,7 @@
                     "value": "ActivateBehavior"
                   },
                   "parameters": [
-                    "BarcoHitBox",
+                    "JangadaHitBox",
                     "PlatformerObject",
                     "no"
                   ],
@@ -13494,7 +13481,7 @@
                         "value": "ActivateBehavior"
                       },
                       "parameters": [
-                        "BarcoHitBox",
+                        "JangadaHitBox",
                         "PlatformerObject",
                         "no"
                       ],
@@ -13554,8 +13541,8 @@
                         "value": "ModVarObjetTxt"
                       },
                       "parameters": [
-                        "BarcoHitBox",
-                        "mov_Rato",
+                        "JangadaHitBox",
+                        "Mov_Barco",
                         "=",
                         "\"off\""
                       ],
@@ -13668,7 +13655,7 @@
                         "value": "ActivateBehavior"
                       },
                       "parameters": [
-                        "BarcoHitBox",
+                        "JangadaHitBox",
                         "PlatformerObject",
                         "no"
                       ],
@@ -13728,8 +13715,8 @@
                         "value": "ModVarObjetTxt"
                       },
                       "parameters": [
-                        "BarcoHitBox",
-                        "mov_Rato",
+                        "JangadaHitBox",
+                        "Mov_Barco",
                         "=",
                         "\"off\""
                       ],
@@ -13833,7 +13820,7 @@
                         "value": "ActivateBehavior"
                       },
                       "parameters": [
-                        "BarcoHitBox",
+                        "JangadaHitBox",
                         "PlatformerObject",
                         "yes"
                       ],
@@ -13893,8 +13880,8 @@
                         "value": "ModVarObjetTxt"
                       },
                       "parameters": [
-                        "BarcoHitBox",
-                        "mov_Rato",
+                        "JangadaHitBox",
+                        "Mov_Barco",
                         "=",
                         "\"on\""
                       ],
