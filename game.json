@@ -7461,6 +7461,41 @@
         "name": "jagadaHiBox-1.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Grass (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Grass (2).png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Worlds/Desert/Objects/Grass (2).png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mushroom 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Mushroom 2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Worlds/Summer/Objects/Mushroom 2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "invi-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "invi-1.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -8532,7 +8567,7 @@
         "gridWidth": 32,
         "snap": false,
         "windowMask": false,
-        "zoomFactor": 0.8999999999999999
+        "zoomFactor": 1
       },
       "objectsGroups": [],
       "variables": [],
@@ -8610,9 +8645,9 @@
           "name": "Bush4",
           "persistentUuid": "deae6133-fd15-4aa8-8a29-2ef141f75822",
           "width": 64,
-          "x": 0,
-          "y": 416,
-          "zOrder": 30,
+          "x": -38,
+          "y": 424,
+          "zOrder": 130,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8642,8 +8677,8 @@
           "name": "GatoHitBox",
           "persistentUuid": "443f562b-b71b-4111-a6f3-18959d779c41",
           "width": 0,
-          "x": -12,
-          "y": 329,
+          "x": -31,
+          "y": 333,
           "zOrder": 82,
           "numberProperties": [],
           "stringProperties": [],
@@ -8658,8 +8693,8 @@
           "name": "Rato",
           "persistentUuid": "26ab78d6-f71b-4d4f-90b2-79001f41290c",
           "width": 0,
-          "x": 143,
-          "y": 332,
+          "x": 110,
+          "y": 318,
           "zOrder": 100,
           "numberProperties": [],
           "stringProperties": [],
@@ -8674,8 +8709,8 @@
           "name": "RatoHitBox",
           "persistentUuid": "13000dea-ce2f-4980-a49a-f866b5bf7c0f",
           "width": 0,
-          "x": 143,
-          "y": 333,
+          "x": 108,
+          "y": 327,
           "zOrder": 84,
           "numberProperties": [],
           "stringProperties": [],
@@ -8690,8 +8725,8 @@
           "name": "SummerTilePlatformLeft",
           "persistentUuid": "0e67cc01-2107-4b6c-827e-84a3ab241f27",
           "width": 0,
-          "x": 803,
-          "y": 448,
+          "x": 807,
+          "y": 447,
           "zOrder": 85,
           "numberProperties": [],
           "stringProperties": [],
@@ -8706,7 +8741,7 @@
           "name": "SummerTilePlatformRight",
           "persistentUuid": "5231d6e3-525b-49f7-94d6-4f843938517f",
           "width": 0,
-          "x": 265,
+          "x": 263,
           "y": 448,
           "zOrder": 86,
           "numberProperties": [],
@@ -8722,8 +8757,8 @@
           "name": "Gato",
           "persistentUuid": "2509903a-2caf-49c0-983a-6ef5742afff2",
           "width": 0,
-          "x": -12,
-          "y": 330,
+          "x": -27,
+          "y": 329,
           "zOrder": 100,
           "numberProperties": [],
           "stringProperties": [],
@@ -8738,8 +8773,8 @@
           "name": "buttonGato",
           "persistentUuid": "060e5e94-ffdd-4608-b4a7-453af1d45b14",
           "width": 0,
-          "x": 32,
-          "y": 90,
+          "x": 23,
+          "y": 89,
           "zOrder": 88,
           "numberProperties": [],
           "stringProperties": [],
@@ -8754,8 +8789,8 @@
           "name": "buttonRato",
           "persistentUuid": "71f21f84-8b4a-4c4d-bd51-1299cab99bb6",
           "width": 0,
-          "x": 110,
-          "y": 90,
+          "x": 22,
+          "y": 142,
           "zOrder": 101,
           "numberProperties": [],
           "stringProperties": [],
@@ -8763,15 +8798,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 85,
           "layer": "",
           "locked": false,
           "name": "Queijo",
           "persistentUuid": "08abd6d7-f7b1-44fe-bbb1-c1af9c2e81eb",
-          "width": 0,
-          "x": 90,
-          "y": 390,
+          "width": 98,
+          "x": 230,
+          "y": 374,
           "zOrder": 102,
           "numberProperties": [],
           "stringProperties": [],
@@ -9159,8 +9194,8 @@
           "name": "buttonBarco",
           "persistentUuid": "a7176a24-ec51-4fde-9753-a2fa541051ee",
           "width": 0,
-          "x": 181,
-          "y": 90,
+          "x": 466,
+          "y": 18,
           "zOrder": 107,
           "numberProperties": [],
           "stringProperties": [],
@@ -9175,8 +9210,8 @@
           "name": "Jangada",
           "persistentUuid": "470fafc7-fa55-4d7a-bc85-2d691ef73d28",
           "width": 0,
-          "x": 479,
-          "y": 263,
+          "x": 329,
+          "y": 269,
           "zOrder": 99,
           "numberProperties": [],
           "stringProperties": [],
@@ -9191,9 +9226,89 @@
           "name": "JangadaHitBox",
           "persistentUuid": "c4838fce-93aa-4477-82eb-439414ab91e2",
           "width": 0,
-          "x": 480,
-          "y": 261,
+          "x": 330,
+          "y": 265,
           "zOrder": 108,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Grass2",
+          "persistentUuid": "39e1fe88-e6f1-4bbe-a563-7c6f49b6fe37",
+          "width": 0,
+          "x": 828,
+          "y": 422,
+          "zOrder": 131,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Grass2",
+          "persistentUuid": "caff164a-a06f-46e3-b4c1-766c574596c9",
+          "width": 0,
+          "x": 895,
+          "y": 425,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Grass2",
+          "persistentUuid": "f8dadabf-b75e-4190-a2c3-61bc2e43b7d0",
+          "width": 0,
+          "x": 955,
+          "y": 429,
+          "zOrder": 134,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 33,
+          "layer": "",
+          "locked": false,
+          "name": "invi",
+          "persistentUuid": "3c4b78a0-bb17-466a-a844-7e97a9a61ac7",
+          "width": 399,
+          "x": -81,
+          "y": 416,
+          "zOrder": 143,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "btnQueijo",
+          "persistentUuid": "6a8958f7-de11-402b-8638-8d2e2923b1e5",
+          "width": 0,
+          "x": 20,
+          "y": 115,
+          "zOrder": 144,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -10959,9 +11074,9 @@
           ],
           "behaviors": [
             {
-              "jumpSpeed": 400,
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "jumpSpeed": 400,
               "acceleration": 1500,
               "canGrabPlatforms": false,
               "deceleration": 1500,
@@ -12220,8 +12335,33 @@
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [],
+          "variables": [
+            {
+              "name": "mov_queijo",
+              "type": "string",
+              "value": ""
+            }
+          ],
+          "behaviors": [
+            {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "acceleration": 1500,
+              "canGrabPlatforms": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": false,
+              "jumpSpeed": 400,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "roundCoordinates": true,
+              "slopeMaxAngle": 60,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -12522,13 +12662,15 @@
           "variables": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             },
             {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 1500,
               "canGrabPlatforms": false,
               "deceleration": 1500,
@@ -12539,10 +12681,8 @@
               "ladderClimbingSpeed": 0,
               "maxFallingSpeed": 0,
               "maxSpeed": 250,
-              "name": "PlatformerObject",
               "roundCoordinates": true,
               "slopeMaxAngle": 60,
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "xGrabTolerance": 10,
               "yGrabOffset": 0
             }
@@ -12706,27 +12846,27 @@
           ],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             },
             {
-              "acceleration": 1500,
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "acceleration": 500,
               "canGrabPlatforms": false,
-              "deceleration": 1500,
+              "deceleration": 500,
               "gravity": 1000,
               "ignoreDefaultControls": false,
               "jumpSpeed": 0,
               "jumpSustainTime": 0.2,
               "ladderClimbingSpeed": 0,
               "maxFallingSpeed": 0,
-              "maxSpeed": 250,
-              "name": "PlatformerObject",
+              "maxSpeed": 100,
               "roundCoordinates": true,
               "slopeMaxAngle": 60,
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "xGrabTolerance": 10,
               "yGrabOffset": 0
             }
@@ -12781,6 +12921,103 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Grass2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.02500000037252903,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Grass (2).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "invi",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "invi",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "invi-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bold": true,
+          "italic": false,
+          "name": "btnQueijo",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Queijo",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
         }
       ],
       "events": [
@@ -12790,7 +13027,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Beginning the Scene",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -12941,6 +13178,18 @@
                 {
                   "type": {
                     "inverted": false,
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Queijo",
+                    "PlatformerObject",
+                    "no"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
                     "value": "ModVarGlobal"
                   },
                   "parameters": [
@@ -13002,7 +13251,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Animacao Gato",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -13193,7 +13442,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Movimentacao Gato",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -13482,6 +13731,18 @@
                     {
                       "type": {
                         "inverted": false,
+                        "value": "ActivateBehavior"
+                      },
+                      "parameters": [
+                        "Queijo",
+                        "PlatformerObject",
+                        "no"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
                         "value": "TextObject::ChangeColor"
                       },
                       "parameters": [
@@ -13497,6 +13758,17 @@
                       },
                       "parameters": [
                         "buttonRato",
+                        "\"0;0;0\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "btnQueijo",
                         "\"0;0;0\""
                       ],
                       "subInstructions": []
@@ -13656,6 +13928,18 @@
                     {
                       "type": {
                         "inverted": false,
+                        "value": "ActivateBehavior"
+                      },
+                      "parameters": [
+                        "Queijo",
+                        "PlatformerObject",
+                        "no"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
                         "value": "TextObject::ChangeColor"
                       },
                       "parameters": [
@@ -13671,6 +13955,17 @@
                       },
                       "parameters": [
                         "buttonGato",
+                        "\"0;0;0\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "btnQueijo",
                         "\"0;0;0\""
                       ],
                       "subInstructions": []
@@ -13843,6 +14138,17 @@
                     {
                       "type": {
                         "inverted": false,
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "btnQueijo",
+                        "\"0;0;0\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
                         "value": "ModVarObjetTxt"
                       },
                       "parameters": [
@@ -13909,6 +14215,194 @@
                   "events": []
                 }
               ]
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "btnQueijo",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "MouseButtonPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ActivateBehavior"
+                      },
+                      "parameters": [
+                        "GatoHitBox",
+                        "PlatformerObject",
+                        "no"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ActivateBehavior"
+                      },
+                      "parameters": [
+                        "RatoHitBox",
+                        "PlatformerObject",
+                        "no"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ActivateBehavior"
+                      },
+                      "parameters": [
+                        "JangadaHitBox",
+                        "PlatformerObject",
+                        "no"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ActivateBehavior"
+                      },
+                      "parameters": [
+                        "Queijo",
+                        "PlatformerObject",
+                        "yes"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "btnQueijo",
+                        "\"255;22;22\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "buttonGato",
+                        "\"0;0;0\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "buttonRato",
+                        "\"0;0;0\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "buttonBarco",
+                        "\"0;0;0\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjetTxt"
+                      },
+                      "parameters": [
+                        "GatoHitBox",
+                        "mov_cat",
+                        "=",
+                        "\"off\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjetTxt"
+                      },
+                      "parameters": [
+                        "RatoHitBox",
+                        "mov_Rato",
+                        "=",
+                        "\"off\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjetTxt"
+                      },
+                      "parameters": [
+                        "JangadaHitBox",
+                        "Mov_Barco",
+                        "=",
+                        "\"off\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjetTxt"
+                      },
+                      "parameters": [
+                        "Queijo",
+                        "mov_queijo",
+                        "=",
+                        "\"on\""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ]
             }
           ],
           "parameters": []
@@ -13919,7 +14413,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Animacao Rato",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -14076,7 +14570,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Movimentacao Rato",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -14271,33 +14765,10 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Movimentacao Jangada",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
-          "events": [],
-          "parameters": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "VarObjetTxt"
-              },
-              "parameters": [
-                "JangadaHitBox",
-                "Mov_Barco",
-                "=",
-                "\"on\""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "actions": [],
           "events": [
             {
               "disabled": false,
@@ -14307,125 +14778,149 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "BuiltinCommonInstructions::Or"
+                    "value": "VarObjetTxt"
                   },
-                  "parameters": [],
-                  "subInstructions": [
+                  "parameters": [
+                    "JangadaHitBox",
+                    "Mov_Barco",
+                    "=",
+                    "\"on\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
                     {
                       "type": {
                         "inverted": false,
-                        "value": "KeyPressed"
+                        "value": "BuiltinCommonInstructions::Or"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "a"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Left"
+                          ],
+                          "subInstructions": []
+                        }
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "FlipX"
                       },
                       "parameters": [
-                        "",
-                        "a"
+                        "Jangada",
+                        "no"
                       ],
                       "subInstructions": []
                     },
                     {
                       "type": {
                         "inverted": false,
-                        "value": "KeyPressed"
+                        "value": "PlatformBehavior::SimulateLeftKey"
                       },
                       "parameters": [
-                        "",
-                        "Left"
+                        "JangadaHitBox",
+                        "PlatformerObject"
                       ],
                       "subInstructions": []
                     }
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "FlipX"
-                  },
-                  "parameters": [
-                    "Jangada",
-                    "no"
                   ],
-                  "subInstructions": []
+                  "events": []
                 },
                 {
-                  "type": {
-                    "inverted": false,
-                    "value": "PlatformBehavior::SimulateLeftKey"
-                  },
-                  "parameters": [
-                    "JangadaHitBox",
-                    "PlatformerObject"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "BuiltinCommonInstructions::Or"
-                  },
-                  "parameters": [],
-                  "subInstructions": [
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
                     {
                       "type": {
                         "inverted": false,
-                        "value": "KeyPressed"
+                        "value": "BuiltinCommonInstructions::Or"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "d"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Right"
+                          ],
+                          "subInstructions": []
+                        }
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "FlipX"
                       },
                       "parameters": [
-                        "",
-                        "d"
+                        "Jangada",
+                        "yes"
                       ],
                       "subInstructions": []
                     },
                     {
                       "type": {
                         "inverted": false,
-                        "value": "KeyPressed"
+                        "value": "PlatformBehavior::SimulateRightKey"
                       },
                       "parameters": [
-                        "",
-                        "Right"
+                        "JangadaHitBox",
+                        "PlatformerObject"
                       ],
                       "subInstructions": []
                     }
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "FlipX"
-                  },
-                  "parameters": [
-                    "Jangada",
-                    "yes"
                   ],
-                  "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "PlatformBehavior::SimulateRightKey"
-                  },
-                  "parameters": [
-                    "JangadaHitBox",
-                    "PlatformerObject"
-                  ],
-                  "subInstructions": []
+                  "events": []
                 }
-              ],
-              "events": []
+              ]
             }
-          ]
+          ],
+          "parameters": []
         },
         {
           "colorB": 228,
@@ -14433,7 +14928,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "GameController",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -14668,7 +15163,21 @@
                   "events": []
                 }
               ]
-            },
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "disabled": false,
+          "folded": true,
+          "name": "Colisao",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
             {
               "disabled": false,
               "folded": false,
@@ -14834,6 +15343,313 @@
                 }
               ],
               "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Esconder Botoes",
+              "comment2": ""
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "GatoHitBox",
+                    "Grass2",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "RatoHitBox",
+                    "Grass2",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Fail Cena dead Rato\"",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Gato e rato sozinho depois da travessia",
+                  "comment2": ""
+                }
+              ]
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "GatoHitBox",
+                    "invi",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "RatoHitBox",
+                    "invi",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Queijo",
+                    "Grass2",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Fail Cena dead Rato\"",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Gato e rato sozinhos antes da travessia",
+                  "comment2": ""
+                }
+              ]
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Queijo",
+                    "invi",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "RatoHitBox",
+                    "invi",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "GatoHitBox",
+                    "Grass2",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Fail Cena dead Rato\"",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Rato e queijo sozinho antes da travessia",
+                  "comment2": ""
+                }
+              ]
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Queijo",
+                    "Grass2",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "RatoHitBox",
+                    "Grass2",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Fail Cena dead Rato\"",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Rato e quejo sozinhos depois da travessia",
+                  "comment2": ""
+                }
+              ]
             }
           ],
           "parameters": []
@@ -14842,8 +15658,180 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [],
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Rato",
+                "Jangada",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "buttonGato"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "btnQueijo"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "GatoHitBox",
+                "Jangada",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "buttonRato"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "btnQueijo"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Rato",
+                "Jangada",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Montre"
+              },
+              "parameters": [
+                "buttonGato",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Montre"
+              },
+              "parameters": [
+                "btnQueijo",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "GatoHitBox",
+                "Jangada",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Montre"
+              },
+              "parameters": [
+                "buttonRato",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Montre"
+              },
+              "parameters": [
+                "btnQueijo",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
           "events": []
         }
       ],
