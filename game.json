@@ -12181,7 +12181,15 @@
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "Flash",
+              "type": "Flash::Flash",
+              "HalfPeriodTime": 0.2,
+              "IsFlashing": false,
+              "FlashDuration": 0
+            }
+          ],
           "animations": [
             {
               "name": "Idle",
