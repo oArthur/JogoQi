@@ -29,65 +29,6 @@
       "showGDevelopSplash": true
     },
     "extensionProperties": [],
-    "extensions": [
-      {
-        "name": "BuiltinObject"
-      },
-      {
-        "name": "BuiltinAudio"
-      },
-      {
-        "name": "BuiltinVariables"
-      },
-      {
-        "name": "BuiltinTime"
-      },
-      {
-        "name": "BuiltinMouse"
-      },
-      {
-        "name": "BuiltinKeyboard"
-      },
-      {
-        "name": "BuiltinJoystick"
-      },
-      {
-        "name": "BuiltinCamera"
-      },
-      {
-        "name": "BuiltinWindow"
-      },
-      {
-        "name": "BuiltinFile"
-      },
-      {
-        "name": "BuiltinNetwork"
-      },
-      {
-        "name": "BuiltinScene"
-      },
-      {
-        "name": "BuiltinAdvanced"
-      },
-      {
-        "name": "Sprite"
-      },
-      {
-        "name": "BuiltinCommonInstructions"
-      },
-      {
-        "name": "BuiltinCommonConversions"
-      },
-      {
-        "name": "BuiltinStringInstructions"
-      },
-      {
-        "name": "BuiltinMathematicalTools"
-      },
-      {
-        "name": "BuiltinExternalLayouts"
-      }
-    ],
     "platforms": [
       {
         "name": "GDevelop JS platform"
@@ -8270,6 +8211,146 @@
         "name": "assets\\deadcheese.jpg",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "star.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "star.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "barcooff.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "barcooff.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "barcoon.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "barcoon.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "home.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "home.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "return.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "return.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "home2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "home2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "board.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "board.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "home3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "home3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sound_on.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sound_on.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "board2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "board2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sound_off.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sound_off.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sound_off2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sound_off2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sound_off3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sound_off3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "Media/menu/fontes/HighMount-Free.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Media\\menu\\fontes\\HighMount-Free.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "Media/menu/fontes/roast-beef-btn.otf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Media\\menu\\fontes\\roast-beef-btn.otf",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "home4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "home4.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -9346,7 +9427,7 @@
         "gridWidth": 32,
         "snap": false,
         "windowMask": false,
-        "zoomFactor": 1.2000000000000002
+        "zoomFactor": 0.9600000000000002
       },
       "objectsGroups": [],
       "variables": [],
@@ -9549,43 +9630,11 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "buttonGato",
-          "persistentUuid": "060e5e94-ffdd-4608-b4a7-453af1d45b14",
-          "width": 0,
-          "x": 23,
-          "y": 89,
-          "zOrder": 88,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "buttonRato",
-          "persistentUuid": "71f21f84-8b4a-4c4d-bd51-1299cab99bb6",
-          "width": 0,
-          "x": 22,
-          "y": 142,
-          "zOrder": 101,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
           "name": "LifeHub",
           "persistentUuid": "3bbd62d2-2790-4541-8583-188f9dd0ac38",
           "width": 0,
-          "x": 37,
-          "y": 34,
+          "x": 167,
+          "y": 58,
           "zOrder": 104,
           "numberProperties": [
             {
@@ -9922,22 +9971,6 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "buttonBarco",
-          "persistentUuid": "a7176a24-ec51-4fde-9753-a2fa541051ee",
-          "width": 0,
-          "x": 466,
-          "y": 18,
-          "zOrder": 107,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
           "name": "Jangada",
           "persistentUuid": "470fafc7-fa55-4d7a-bc85-2d691ef73d28",
           "width": 0,
@@ -10030,22 +10063,6 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "btnQueijo",
-          "persistentUuid": "6a8958f7-de11-402b-8638-8d2e2923b1e5",
-          "width": 0,
-          "x": 20,
-          "y": 115,
-          "zOrder": 144,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": true,
           "height": 32,
           "layer": "",
@@ -10088,6 +10105,182 @@
           "x": 82,
           "y": 361,
           "zOrder": 147,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 70,
+          "layer": "",
+          "locked": false,
+          "name": "ASG",
+          "persistentUuid": "1bfcf095-a167-47fe-94ac-573b749d319f",
+          "width": 70,
+          "x": 616,
+          "y": 26,
+          "zOrder": 148,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 36,
+          "layer": "",
+          "locked": false,
+          "name": "AvatarG",
+          "persistentUuid": "cd515629-3f83-4645-857e-8194edb8f05d",
+          "width": 40,
+          "x": 630,
+          "y": 44,
+          "zOrder": 149,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 70,
+          "layer": "",
+          "locked": false,
+          "name": "ASR",
+          "persistentUuid": "7673136a-d873-4027-8367-f9a6ead6ee42",
+          "width": 70,
+          "x": 819,
+          "y": 26,
+          "zOrder": 150,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 70,
+          "layer": "",
+          "locked": false,
+          "name": "ASQ",
+          "persistentUuid": "1903cb8b-1793-4e73-aacc-916f476fdc55",
+          "width": 70,
+          "x": 718,
+          "y": 25,
+          "zOrder": 151,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 47,
+          "layer": "",
+          "locked": false,
+          "name": "AvatarR",
+          "persistentUuid": "ef10af5c-f173-4d32-9ca6-b4b2c8accb66",
+          "width": 43,
+          "x": 833,
+          "y": 32,
+          "zOrder": 152,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 44,
+          "layer": "",
+          "locked": false,
+          "name": "AvatarQ",
+          "persistentUuid": "5a5dbe17-9947-4785-ada3-3a40f0d82912",
+          "width": 41,
+          "x": 732,
+          "y": 41,
+          "zOrder": 153,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "buttonGato",
+          "persistentUuid": "1dc90efc-3d58-4cb0-8fb7-65d8fb5cc9a3",
+          "width": 0,
+          "x": 629,
+          "y": 111,
+          "zOrder": 154,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "buttonRato",
+          "persistentUuid": "fb4a5ee7-453a-4e02-83ec-223b1d53dffe",
+          "width": 0,
+          "x": 832,
+          "y": 111,
+          "zOrder": 155,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "btnQueijo",
+          "persistentUuid": "8b9f757b-cc7c-477e-8182-b55417b1d378",
+          "width": 0,
+          "x": 727,
+          "y": 111,
+          "zOrder": 156,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 76,
+          "layer": "",
+          "locked": false,
+          "name": "BntBarco",
+          "persistentUuid": "3acbd50f-be5c-46dc-9cf7-33a3a5463a2b",
+          "width": 221,
+          "x": 344,
+          "y": 57,
+          "zOrder": 157,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 57,
+          "layer": "",
+          "locked": false,
+          "name": "home",
+          "persistentUuid": "1d935e94-05be-4bb9-8aa1-e54960276771",
+          "width": 60,
+          "x": 8,
+          "y": 9,
+          "zOrder": 158,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -12971,6 +13164,808 @@
               ]
             }
           ]
+        },
+        {
+          "name": "ASQ",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "star.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ASR",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "star.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ASG",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "star.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "AvatarG",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Run\\Run_01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Run\\Run_01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Run\\Run_02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Run\\Run_04.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Run\\Run_05.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Run\\Run_06.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Run\\Run_07.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Run\\Run_08.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Run\\Run_09.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cat\\Run\\Run_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "AvatarR",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Mouse\\Run\\run_01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Mouse\\Run\\run_01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Mouse\\Run\\run_02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Mouse\\Run\\run_03.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Mouse\\Run\\run_04.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Mouse\\Run\\run_05.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Mouse\\Run\\run_06.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Mouse\\Run\\run_07.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Mouse\\Run\\run_08.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Mouse\\Run\\run_09.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Mouse\\Run\\run_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "AvatarQ",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cheese\\walking\\walk1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cheese\\walking\\walk1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cheese\\walking\\walk2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cheese\\walking\\walk3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cheese\\walking\\walk4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cheese\\walking\\walk5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Media\\Characters GameQi\\Cheese\\walking\\walk6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BntBarco",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "barcooff.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "barcoon.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "home",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "home4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -13240,9 +14235,137 @@
                     ""
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangeScale"
+                  },
+                  "parameters": [
+                    "AvatarG",
+                    "=",
+                    "0.3"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangeScale"
+                  },
+                  "parameters": [
+                    "AvatarR",
+                    "=",
+                    "0.3"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangeScale"
+                  },
+                  "parameters": [
+                    "AvatarQ",
+                    "=",
+                    "0.4"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangeScale"
+                  },
+                  "parameters": [
+                    "ASG",
+                    "=",
+                    "0.13"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangeScale"
+                  },
+                  "parameters": [
+                    "ASR",
+                    "=",
+                    "0.13"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangeScale"
+                  },
+                  "parameters": [
+                    "ASQ",
+                    "=",
+                    "0.13"
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "home",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "MouseButtonPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Scene"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Menu\"",
+                        ""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ]
             }
           ],
           "parameters": []
@@ -13652,15 +14775,37 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "SourisSurObjet"
+                    "value": "BuiltinCommonInstructions::Or"
                   },
-                  "parameters": [
-                    "buttonGato",
-                    "",
-                    "",
-                    ""
-                  ],
-                  "subInstructions": []
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SourisSurObjet"
+                      },
+                      "parameters": [
+                        "Gato",
+                        "",
+                        "",
+                        ""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SourisSurObjet"
+                      },
+                      "parameters": [
+                        "ASG",
+                        "",
+                        "",
+                        ""
+                      ],
+                      "subInstructions": []
+                    }
+                  ]
                 }
               ],
               "actions": [],
@@ -13680,6 +14825,14 @@
                         "Left"
                       ],
                       "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": [],
+                      "subInstructions": []
                     }
                   ],
                   "actions": [
@@ -13692,17 +14845,6 @@
                         "GatoHitBox",
                         "PlatformerObject",
                         "yes"
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "TextObject::ChangeColor"
-                      },
-                      "parameters": [
-                        "buttonGato",
-                        "\"255;22;22\""
                       ],
                       "subInstructions": []
                     },
@@ -13745,33 +14887,12 @@
                     {
                       "type": {
                         "inverted": false,
-                        "value": "TextObject::ChangeColor"
+                        "value": "ChangeAnimation"
                       },
                       "parameters": [
-                        "buttonBarco",
-                        "\"0;0;0\""
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "TextObject::ChangeColor"
-                      },
-                      "parameters": [
-                        "buttonRato",
-                        "\"0;0;0\""
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "TextObject::ChangeColor"
-                      },
-                      "parameters": [
-                        "btnQueijo",
-                        "\"0;0;0\""
+                        "AvatarG",
+                        "=",
+                        "1"
                       ],
                       "subInstructions": []
                     },
@@ -13837,6 +14958,159 @@
                         "PlatformerObject",
                         "=",
                         "1500"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeScale"
+                      },
+                      "parameters": [
+                        "ASG",
+                        "=",
+                        "0.15"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeScale"
+                      },
+                      "parameters": [
+                        "AvatarG",
+                        "=",
+                        "0.37"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "AvatarR",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "AvatarQ",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeScale"
+                      },
+                      "parameters": [
+                        "AvatarR",
+                        "=",
+                        "0.3"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "AvatarQ",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeScale"
+                      },
+                      "parameters": [
+                        "AvatarQ",
+                        "=",
+                        "0.4"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeScale"
+                      },
+                      "parameters": [
+                        "ASR",
+                        "=",
+                        "0.13"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeScale"
+                      },
+                      "parameters": [
+                        "ASQ",
+                        "=",
+                        "0.13"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "buttonRato",
+                        "\"0;0;0\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "buttonGato",
+                        "\"248;231;28\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "btnQueijo",
+                        "\"0;0;0\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "BntBarco",
+                        "=",
+                        "0"
                       ],
                       "subInstructions": []
                     }
@@ -13862,15 +15136,37 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "SourisSurObjet"
+                    "value": "BuiltinCommonInstructions::Or"
                   },
-                  "parameters": [
-                    "buttonRato",
-                    "",
-                    "",
-                    ""
-                  ],
-                  "subInstructions": []
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SourisSurObjet"
+                      },
+                      "parameters": [
+                        "Rato",
+                        "",
+                        "",
+                        ""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SourisSurObjet"
+                      },
+                      "parameters": [
+                        "ASR",
+                        "",
+                        "",
+                        ""
+                      ],
+                      "subInstructions": []
+                    }
+                  ]
                 }
               ],
               "actions": [],
@@ -13890,6 +15186,14 @@
                         "Left"
                       ],
                       "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": [],
+                      "subInstructions": []
                     }
                   ],
                   "actions": [
@@ -13902,17 +15206,6 @@
                         "GatoHitBox",
                         "PlatformerObject",
                         "no"
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "TextObject::ChangeColor"
-                      },
-                      "parameters": [
-                        "buttonRato",
-                        "\"255;22;22\""
                       ],
                       "subInstructions": []
                     },
@@ -13959,28 +15252,6 @@
                       },
                       "parameters": [
                         "buttonBarco",
-                        "\"0;0;0\""
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "TextObject::ChangeColor"
-                      },
-                      "parameters": [
-                        "buttonGato",
-                        "\"0;0;0\""
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "TextObject::ChangeColor"
-                      },
-                      "parameters": [
-                        "btnQueijo",
                         "\"0;0;0\""
                       ],
                       "subInstructions": []
@@ -14049,6 +15320,159 @@
                         "1500"
                       ],
                       "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeScale"
+                      },
+                      "parameters": [
+                        "AvatarR",
+                        "=",
+                        "0.37"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeScale"
+                      },
+                      "parameters": [
+                        "ASR",
+                        "=",
+                        "0.15"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "AvatarR",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeScale"
+                      },
+                      "parameters": [
+                        "ASG",
+                        "=",
+                        "0.13"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "AvatarG",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeScale"
+                      },
+                      "parameters": [
+                        "AvatarG",
+                        "=",
+                        "0.3"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeScale"
+                      },
+                      "parameters": [
+                        "AvatarQ",
+                        "=",
+                        "0.4"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "AvatarQ",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeScale"
+                      },
+                      "parameters": [
+                        "ASQ",
+                        "=",
+                        "0.13"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "buttonRato",
+                        "\"248;231;28\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "buttonGato",
+                        "\"0;0;0\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "btnQueijo",
+                        "\"0;0;0\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "BntBarco",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
                     }
                   ],
                   "events": []
@@ -14066,7 +15490,7 @@
                     "value": "SourisSurObjet"
                   },
                   "parameters": [
-                    "buttonBarco",
+                    "BntBarco",
                     "",
                     "",
                     ""
@@ -14091,6 +15515,14 @@
                         "Left"
                       ],
                       "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": [],
+                      "subInstructions": []
                     }
                   ],
                   "actions": [
@@ -14109,11 +15541,12 @@
                     {
                       "type": {
                         "inverted": false,
-                        "value": "TextObject::ChangeColor"
+                        "value": "ChangeAnimation"
                       },
                       "parameters": [
-                        "buttonBarco",
-                        "\"255;22;22\""
+                        "BntBarco",
+                        "=",
+                        "1"
                       ],
                       "subInstructions": []
                     },
@@ -14150,39 +15583,6 @@
                         "QueijoHitBox",
                         "PlatformerObject",
                         "yes"
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "TextObject::ChangeColor"
-                      },
-                      "parameters": [
-                        "buttonGato",
-                        "\"0;0;0\""
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "TextObject::ChangeColor"
-                      },
-                      "parameters": [
-                        "buttonRato",
-                        "\"0;0;0\""
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "TextObject::ChangeColor"
-                      },
-                      "parameters": [
-                        "btnQueijo",
-                        "\"0;0;0\""
                       ],
                       "subInstructions": []
                     },
@@ -14276,6 +15676,39 @@
                         "0"
                       ],
                       "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "buttonRato",
+                        "\"0;0;0\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "buttonGato",
+                        "\"0;0;0\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "btnQueijo",
+                        "\"0;0;0\""
+                      ],
+                      "subInstructions": []
                     }
                   ],
                   "events": []
@@ -14290,15 +15723,37 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "SourisSurObjet"
+                    "value": "BuiltinCommonInstructions::Or"
                   },
-                  "parameters": [
-                    "btnQueijo",
-                    "",
-                    "",
-                    ""
-                  ],
-                  "subInstructions": []
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SourisSurObjet"
+                      },
+                      "parameters": [
+                        "Queijinho",
+                        "",
+                        "",
+                        ""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SourisSurObjet"
+                      },
+                      "parameters": [
+                        "ASQ",
+                        "",
+                        "",
+                        ""
+                      ],
+                      "subInstructions": []
+                    }
+                  ]
                 }
               ],
               "actions": [],
@@ -14366,50 +15821,6 @@
                         "QueijoHitBox",
                         "PlatformerObject",
                         "yes"
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "TextObject::ChangeColor"
-                      },
-                      "parameters": [
-                        "btnQueijo",
-                        "\"255;22;22\""
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "TextObject::ChangeColor"
-                      },
-                      "parameters": [
-                        "buttonGato",
-                        "\"0;0;0\""
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "TextObject::ChangeColor"
-                      },
-                      "parameters": [
-                        "buttonRato",
-                        "\"0;0;0\""
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "TextObject::ChangeColor"
-                      },
-                      "parameters": [
-                        "buttonBarco",
-                        "\"0;0;0\""
                       ],
                       "subInstructions": []
                     },
@@ -14475,6 +15886,170 @@
                         "PlatformerObject",
                         "=",
                         "1500"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeScale"
+                      },
+                      "parameters": [
+                        "ASR",
+                        "=",
+                        "0.13"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeScale"
+                      },
+                      "parameters": [
+                        "ASG",
+                        "=",
+                        "0.13"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "AvatarG",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeScale"
+                      },
+                      "parameters": [
+                        "ASQ",
+                        "=",
+                        "0.15"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "AvatarR",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeScale"
+                      },
+                      "parameters": [
+                        "AvatarR",
+                        "=",
+                        "0.3"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeScale"
+                      },
+                      "parameters": [
+                        "AvatarQ",
+                        "=",
+                        "0.47"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "AvatarQ",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeScale"
+                      },
+                      "parameters": [
+                        "AvatarG",
+                        "=",
+                        "0.3"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "btnQueijo",
+                        "\"248;231;28\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "buttonBarco",
+                        "\"0;0;0\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "buttonGato",
+                        "\"0;0;0\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "buttonRato",
+                        "\"0;0;0\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "BntBarco",
+                        "=",
+                        "0"
                       ],
                       "subInstructions": []
                     }
@@ -16497,15 +18072,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 52,
+          "customSize": true,
+          "height": 114,
           "layer": "",
           "locked": false,
           "name": "restart",
           "persistentUuid": "e3d7d829-6d18-4707-97ef-870a75baab71",
-          "width": 176,
-          "x": 644,
-          "y": 413,
+          "width": 220,
+          "x": 630,
+          "y": 409,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -16513,15 +18088,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 52,
+          "customSize": true,
+          "height": 114,
           "layer": "",
           "locked": false,
           "name": "menu",
           "persistentUuid": "4ef7ca15-f003-4cc3-8d97-ec3a0289adc7",
-          "width": 92,
-          "x": -6,
-          "y": 403,
+          "width": 207,
+          "x": 22,
+          "y": 410,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -22031,18 +23606,18 @@
       ]
     },
     {
-      "b": 209,
+      "b": 114,
       "disableInputWhenNotFocused": true,
       "mangledName": "Settings",
       "name": "Settings",
       "oglFOV": 90,
       "oglZFar": 500,
       "oglZNear": 1,
-      "r": 209,
+      "r": 162,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 209,
+      "v": 114,
       "uiSettings": {
         "grid": false,
         "gridB": 255,
@@ -22055,7 +23630,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.44000000000000006
+        "zoomFactor": 0.74
       },
       "objectsGroups": [],
       "variables": [],
@@ -22078,16 +23653,16 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 464,
           "layer": "",
           "locked": false,
-          "name": "Tabua",
-          "persistentUuid": "cf19b55a-3774-4f89-94a3-1071b326575a",
-          "width": 0,
-          "x": 197,
-          "y": 41,
-          "zOrder": 3,
+          "name": "board",
+          "persistentUuid": "22ab05b7-35e1-4e33-86d7-dad31fe0f59a",
+          "width": 785,
+          "x": 86,
+          "y": 36,
+          "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -22095,15 +23670,63 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 80,
+          "height": 125,
           "layer": "",
           "locked": false,
-          "name": "som",
-          "persistentUuid": "aaa4de3e-e124-4516-85cc-2fcaf18af337",
-          "width": 80,
-          "x": 421,
-          "y": 76,
-          "zOrder": 4,
+          "name": "home",
+          "persistentUuid": "becb7d50-069e-4c08-8838-9e327ba3e678",
+          "width": 138,
+          "x": 775,
+          "y": 400,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 123,
+          "layer": "",
+          "locked": false,
+          "name": "sound2",
+          "persistentUuid": "be855030-398c-4ffd-bc20-0bad1ce451f8",
+          "width": 123,
+          "x": 609,
+          "y": 133,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 123,
+          "layer": "",
+          "locked": false,
+          "name": "sound",
+          "persistentUuid": "ff14e1ac-4bde-44e0-aa0a-ff158611fbfc",
+          "width": 123,
+          "x": 234,
+          "y": 133,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ON",
+          "persistentUuid": "52a60eb0-50f8-4061-8468-29d2c0fe889a",
+          "width": 102,
+          "x": 250,
+          "y": 78,
+          "zOrder": 13,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -22114,12 +23737,12 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "menu",
-          "persistentUuid": "6d2e0049-7a3b-4e03-a075-e499ba42ba0b",
+          "name": "OFF",
+          "persistentUuid": "b8c5ef90-ddd6-458b-bb89-63a40f63c8a7",
           "width": 0,
-          "x": 621,
-          "y": 413,
-          "zOrder": 5,
+          "x": 618,
+          "y": 78,
+          "zOrder": 14,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -22166,7 +23789,7 @@
           ]
         },
         {
-          "name": "Tabua",
+          "name": "home",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -22183,7 +23806,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Media\\Buttons\\wood.png",
+                      "image": "home3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -22205,7 +23828,7 @@
           ]
         },
         {
-          "name": "som",
+          "name": "sound2",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -22213,64 +23836,6 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "on",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Media\\Buttons\\sound_onn.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "off",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Media\\Buttons\\sound_off.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "name": "",
               "useMultipleDirections": false,
               "directions": [
@@ -22280,36 +23845,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Media\\Buttons\\sound_onn.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Media\\Buttons\\sound_off.png",
+                      "image": "sound_off2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -22331,7 +23867,7 @@
           ]
         },
         {
-          "name": "som2",
+          "name": "sound",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -22348,7 +23884,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Media\\Buttons\\sound_off.png",
+                      "image": "sound_on.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -22370,17 +23906,12 @@
           ]
         },
         {
-          "name": "menu",
+          "name": "board",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
-          "behaviors": [
-            {
-              "name": "Tween",
-              "type": "Tween::TweenBehavior"
-            }
-          ],
+          "behaviors": [],
           "animations": [
             {
               "name": "",
@@ -22392,7 +23923,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Media\\menu\\button4.png",
+                      "image": "board2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -22412,6 +23943,44 @@
               ]
             }
           ]
+        },
+        {
+          "bold": true,
+          "italic": false,
+          "name": "OFF",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "OFF",
+          "font": "Media\\menu\\fontes\\roast-beef-btn.otf",
+          "characterSize": 42,
+          "color": {
+            "b": 197,
+            "g": 235,
+            "r": 253
+          }
+        },
+        {
+          "bold": true,
+          "italic": false,
+          "name": "ON",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "ON",
+          "font": "Media\\menu\\fontes\\roast-beef-btn.otf",
+          "characterSize": 42,
+          "color": {
+            "b": 197,
+            "g": 235,
+            "r": 253
+          }
         }
       ],
       "events": [
@@ -22439,10 +24008,21 @@
               },
               "parameters": [
                 "",
-                "Media\\Sounds\\Coconuts – Roa (No Copyright Music) (256 kbps).mp3",
+                "Media\\Sounds\\Coconuts.mp3",
                 "yes",
                 "20",
                 ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::ChangeColor"
+              },
+              "parameters": [
+                "ON",
+                "\"126;211;33\""
               ],
               "subInstructions": []
             }
@@ -22460,19 +24040,11 @@
                 "value": "SourisSurObjet"
               },
               "parameters": [
-                "som",
+                "sound",
                 "",
                 "",
                 ""
               ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": [],
               "subInstructions": []
             }
           ],
@@ -22499,12 +24071,34 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "ChangeAnimation"
+                    "value": "ModGlobalVolume"
                   },
                   "parameters": [
-                    "som2",
+                    "",
                     "=",
-                    "1"
+                    "20"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "TextObject::ChangeColor"
+                  },
+                  "parameters": [
+                    "ON",
+                    "\"126;211;33\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "TextObject::ChangeColor"
+                  },
+                  "parameters": [
+                    "OFF",
+                    "\"253;235;197\""
                   ],
                   "subInstructions": []
                 }
@@ -22524,7 +24118,7 @@
                 "value": "SourisSurObjet"
               },
               "parameters": [
-                "menu",
+                "home",
                 "",
                 "",
                 ""
@@ -22542,41 +24136,6 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": [],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "Tween::AddObjectScaleTween"
-                  },
-                  "parameters": [
-                    "menu",
-                    "Tween",
-                    "\"Hover\"",
-                    "1.0\n",
-                    "1.0",
-                    "\"bouncePast\"",
-                    "100",
-                    ""
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
                     "value": "MouseButtonPressed"
                   },
                   "parameters": [
@@ -22584,80 +24143,9 @@
                     "Left"
                   ],
                   "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": [],
-                  "subInstructions": []
                 }
               ],
               "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "Tween::AddObjectScaleTween"
-                  },
-                  "parameters": [
-                    "menu",
-                    "Tween",
-                    "\"Press\"",
-                    "0.8",
-                    "0.8",
-                    "\"easeOutQuad\"",
-                    "50",
-                    ""
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "MouseButtonReleased"
-                  },
-                  "parameters": [
-                    "",
-                    "Left"
-                  ],
-                  "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": [],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "Tween::AddObjectScaleTween"
-                  },
-                  "parameters": [
-                    "menu",
-                    "Tween",
-                    "\"Press\"",
-                    "1",
-                    "1",
-                    "\"easeOutQuad\"",
-                    "100",
-                    ""
-                  ],
-                  "subInstructions": []
-                },
                 {
                   "type": {
                     "inverted": false,
@@ -22682,45 +24170,83 @@
           "conditions": [
             {
               "type": {
-                "inverted": true,
+                "inverted": false,
                 "value": "SourisSurObjet"
               },
               "parameters": [
-                "menu",
+                "sound2",
                 "",
                 "",
                 ""
               ],
               "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": [],
-              "subInstructions": []
             }
           ],
-          "actions": [
+          "actions": [],
+          "events": [
             {
-              "type": {
-                "inverted": false,
-                "value": "Tween::AddObjectScaleTween"
-              },
-              "parameters": [
-                "menu",
-                "Tween",
-                "\"Press\"",
-                "0.9",
-                "0.9",
-                "\"bouncePast\"",
-                "50",
-                ""
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "MouseButtonPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "Left"
+                  ],
+                  "subInstructions": []
+                }
               ],
-              "subInstructions": []
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModGlobalVolume"
+                  },
+                  "parameters": [
+                    "",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "TextObject::ChangeColor"
+                  },
+                  "parameters": [
+                    "OFF",
+                    "\"208;2;27\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "TextObject::ChangeColor"
+                  },
+                  "parameters": [
+                    "ON",
+                    "\"253;235;197\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
             }
-          ],
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
           "events": []
         }
       ],
@@ -22748,12 +24274,7 @@
           "effects": []
         }
       ],
-      "behaviorsSharedData": [
-        {
-          "name": "Tween",
-          "type": "Tween::TweenBehavior"
-        }
-      ]
+      "behaviorsSharedData": []
     }
   ],
   "externalEvents": [],
