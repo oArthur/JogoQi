@@ -8351,6 +8351,87 @@
         "name": "home4.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/home4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\home4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/barcooff.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\barcooff.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/barcoon.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\barcoon.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/star.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\star.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/board2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\board2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/sound_on.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\sound_on.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/sound_off2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\sound_off2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/home3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\home3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Design sem nome (6).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Design sem nome (6).png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -9427,7 +9508,7 @@
         "gridWidth": 32,
         "snap": false,
         "windowMask": false,
-        "zoomFactor": 0.9600000000000002
+        "zoomFactor": 0.9200000000000002
       },
       "objectsGroups": [],
       "variables": [],
@@ -13183,7 +13264,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "star.png",
+                      "image": "assets\\star.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13222,7 +13303,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "star.png",
+                      "image": "assets\\star.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13261,7 +13342,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "star.png",
+                      "image": "assets\\star.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13878,7 +13959,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "barcooff.png",
+                      "image": "assets\\barcooff.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13907,7 +13988,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "barcoon.png",
+                      "image": "assets\\barcoon.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13946,7 +14027,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "home4.png",
+                      "image": "assets\\home4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -23096,7 +23177,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Design sem nome (6).png",
+                      "image": "assets\\Design sem nome (6).png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -23806,7 +23887,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "home3.png",
+                      "image": "assets\\home3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -23845,7 +23926,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "sound_off2.png",
+                      "image": "assets\\sound_off2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -23884,7 +23965,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "sound_on.png",
+                      "image": "assets\\sound_on.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -23923,7 +24004,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "board2.png",
+                      "image": "assets\\board2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
