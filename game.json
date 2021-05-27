@@ -8441,6 +8441,22 @@
         "name": "assets\\BarcaNaufragado.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/time_hud.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\time_hud.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "Media/fonts/Press_Start_2P/PressStart2P-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Media\\fonts\\Press_Start_2P\\PressStart2P-Regular.ttf",
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -9517,7 +9533,7 @@
         "gridWidth": 32,
         "snap": false,
         "windowMask": false,
-        "zoomFactor": 0.78
+        "zoomFactor": 0.9000000000000001
       },
       "objectsGroups": [],
       "variables": [],
@@ -9718,13 +9734,13 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "",
+          "layer": "HUD",
           "locked": false,
           "name": "LifeHub",
           "persistentUuid": "3bbd62d2-2790-4541-8583-188f9dd0ac38",
           "width": 0,
-          "x": 156,
-          "y": 57,
+          "x": 157,
+          "y": 72,
           "zOrder": 104,
           "numberProperties": [
             {
@@ -10064,8 +10080,8 @@
           "name": "Jangada",
           "persistentUuid": "470fafc7-fa55-4d7a-bc85-2d691ef73d28",
           "width": 0,
-          "x": 294,
-          "y": 267,
+          "x": 301,
+          "y": 284,
           "zOrder": 99,
           "numberProperties": [],
           "stringProperties": [],
@@ -10080,8 +10096,8 @@
           "name": "JangadaHitBox",
           "persistentUuid": "c4838fce-93aa-4477-82eb-439414ab91e2",
           "width": 0,
-          "x": 295,
-          "y": 266,
+          "x": 298,
+          "y": 283,
           "zOrder": 108,
           "numberProperties": [],
           "stringProperties": [],
@@ -10203,7 +10219,7 @@
           "angle": 0,
           "customSize": true,
           "height": 70,
-          "layer": "",
+          "layer": "HUD",
           "locked": false,
           "name": "ASG",
           "persistentUuid": "1bfcf095-a167-47fe-94ac-573b749d319f",
@@ -10219,7 +10235,7 @@
           "angle": 0,
           "customSize": true,
           "height": 36,
-          "layer": "",
+          "layer": "HUD",
           "locked": false,
           "name": "AvatarG",
           "persistentUuid": "cd515629-3f83-4645-857e-8194edb8f05d",
@@ -10235,7 +10251,7 @@
           "angle": 0,
           "customSize": true,
           "height": 70,
-          "layer": "",
+          "layer": "HUD",
           "locked": false,
           "name": "ASR",
           "persistentUuid": "7673136a-d873-4027-8367-f9a6ead6ee42",
@@ -10251,7 +10267,7 @@
           "angle": 0,
           "customSize": true,
           "height": 70,
-          "layer": "",
+          "layer": "HUD",
           "locked": false,
           "name": "ASQ",
           "persistentUuid": "1903cb8b-1793-4e73-aacc-916f476fdc55",
@@ -10267,7 +10283,7 @@
           "angle": 0,
           "customSize": true,
           "height": 47,
-          "layer": "",
+          "layer": "HUD",
           "locked": false,
           "name": "AvatarR",
           "persistentUuid": "ef10af5c-f173-4d32-9ca6-b4b2c8accb66",
@@ -10283,7 +10299,7 @@
           "angle": 0,
           "customSize": true,
           "height": 44,
-          "layer": "",
+          "layer": "HUD",
           "locked": false,
           "name": "AvatarQ",
           "persistentUuid": "5a5dbe17-9947-4785-ada3-3a40f0d82912",
@@ -10299,12 +10315,12 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "",
+          "layer": "HUD",
           "locked": false,
           "name": "buttonGato",
           "persistentUuid": "1dc90efc-3d58-4cb0-8fb7-65d8fb5cc9a3",
           "width": 0,
-          "x": 629,
+          "x": 628,
           "y": 111,
           "zOrder": 154,
           "numberProperties": [],
@@ -10315,7 +10331,7 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "",
+          "layer": "HUD",
           "locked": false,
           "name": "buttonRato",
           "persistentUuid": "fb4a5ee7-453a-4e02-83ec-223b1d53dffe",
@@ -10331,7 +10347,7 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "",
+          "layer": "HUD",
           "locked": false,
           "name": "btnQueijo",
           "persistentUuid": "8b9f757b-cc7c-477e-8182-b55417b1d378",
@@ -10347,7 +10363,7 @@
           "angle": 0,
           "customSize": true,
           "height": 76,
-          "layer": "",
+          "layer": "HUD",
           "locked": false,
           "name": "BntBarco",
           "persistentUuid": "3acbd50f-be5c-46dc-9cf7-33a3a5463a2b",
@@ -10363,13 +10379,13 @@
           "angle": 0,
           "customSize": true,
           "height": 57,
-          "layer": "",
+          "layer": "HUD",
           "locked": false,
           "name": "home",
           "persistentUuid": "1d935e94-05be-4bb9-8aa1-e54960276771",
           "width": 60,
-          "x": 18,
-          "y": 11,
+          "x": 32,
+          "y": 32,
           "zOrder": 158,
           "numberProperties": [],
           "stringProperties": [],
@@ -10451,6 +10467,38 @@
           "x": 960,
           "y": 480,
           "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "HUD",
+          "locked": false,
+          "name": "hud_time",
+          "persistentUuid": "36a8f5d4-97fc-4566-9f8e-679521db680d",
+          "width": 0,
+          "x": 121,
+          "y": 13,
+          "zOrder": 160,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "HUD",
+          "locked": false,
+          "name": "timer",
+          "persistentUuid": "e1e911c2-2692-45f7-988d-d5d6527a0e24",
+          "width": 0,
+          "x": 194,
+          "y": 43,
+          "zOrder": 161,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -14175,6 +14223,64 @@
               ]
             }
           ]
+        },
+        {
+          "name": "hud_time",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\time_hud.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "timer",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "999",
+          "font": "Media\\fonts\\Press_Start_2P\\PressStart2P-Regular.ttf",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
         }
       ],
       "events": [
@@ -14603,7 +14709,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Animacao Gato",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -14794,7 +14900,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Movimentacao Gato",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -14989,7 +15095,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Active/Disable behavior",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -16402,7 +16508,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Animacao Rato",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -16559,7 +16665,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Animacao Queijo",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -16716,7 +16822,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Movimentacao Rato",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -16911,7 +17017,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Movimentacao Queijo",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -17106,7 +17212,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Movimentacao Jangada",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -17269,7 +17375,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "GameController",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -17550,7 +17656,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Colisao",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -18404,6 +18510,19 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "disabled": false,
+          "folded": false,
+          "name": "Timer",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [],
+          "parameters": []
         }
       ],
       "layers": [
@@ -18427,6 +18546,17 @@
               "width": 0
             }
           ],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 1702453580,
+          "ambientLightColorG": 0,
+          "ambientLightColorR": 0,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "HUD",
+          "visibility": true,
+          "cameras": [],
           "effects": []
         }
       ],
