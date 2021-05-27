@@ -8432,6 +8432,15 @@
         "name": "assets\\Design sem nome (6).png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarcaNaufragado.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\BarcaNaufragado.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -8471,7 +8480,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.8
+        "zoomFactor": 0.7
       },
       "objectsGroups": [],
       "variables": [],
@@ -9508,7 +9517,7 @@
         "gridWidth": 32,
         "snap": false,
         "windowMask": false,
-        "zoomFactor": 1.2600000000000005
+        "zoomFactor": 0.78
       },
       "objectsGroups": [],
       "variables": [],
@@ -9522,8 +9531,8 @@
           "name": "SummerTile",
           "persistentUuid": "a4f258e8-a286-4f71-b214-9a9f56440d7c",
           "width": 384,
-          "x": 865,
-          "y": 447,
+          "x": 986,
+          "y": 449,
           "zOrder": 24,
           "numberProperties": [],
           "stringProperties": [],
@@ -9570,8 +9579,8 @@
           "name": "Tree3",
           "persistentUuid": "5afc4e34-6c4b-4c57-95d0-51dd5e2fb364",
           "width": 160,
-          "x": 845,
-          "y": 291,
+          "x": 971,
+          "y": 287,
           "zOrder": 27,
           "numberProperties": [],
           "stringProperties": [],
@@ -9602,8 +9611,8 @@
           "name": "Background",
           "persistentUuid": "e2405dfc-7749-431f-8681-094d643c8a9a",
           "width": 1728,
-          "x": -495,
-          "y": -553,
+          "x": -360,
+          "y": -551,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -9666,8 +9675,8 @@
           "name": "SummerTilePlatformLeft",
           "persistentUuid": "0e67cc01-2107-4b6c-827e-84a3ab241f27",
           "width": 0,
-          "x": 807,
-          "y": 447,
+          "x": 928,
+          "y": 448,
           "zOrder": 85,
           "numberProperties": [],
           "stringProperties": [],
@@ -9714,8 +9723,8 @@
           "name": "LifeHub",
           "persistentUuid": "3bbd62d2-2790-4541-8583-188f9dd0ac38",
           "width": 0,
-          "x": 167,
-          "y": 58,
+          "x": 156,
+          "y": 57,
           "zOrder": 104,
           "numberProperties": [
             {
@@ -10038,7 +10047,7 @@
           "locked": false,
           "name": "wather",
           "persistentUuid": "190490aa-c7ff-4780-a322-eff5a73ca8a7",
-          "width": 608,
+          "width": 743,
           "x": 263,
           "y": 512,
           "zOrder": 22,
@@ -10055,8 +10064,8 @@
           "name": "Jangada",
           "persistentUuid": "470fafc7-fa55-4d7a-bc85-2d691ef73d28",
           "width": 0,
-          "x": 515,
-          "y": 256,
+          "x": 294,
+          "y": 267,
           "zOrder": 99,
           "numberProperties": [],
           "stringProperties": [],
@@ -10071,8 +10080,8 @@
           "name": "JangadaHitBox",
           "persistentUuid": "c4838fce-93aa-4477-82eb-439414ab91e2",
           "width": 0,
-          "x": 509,
-          "y": 256,
+          "x": 295,
+          "y": 266,
           "zOrder": 108,
           "numberProperties": [],
           "stringProperties": [],
@@ -10087,8 +10096,8 @@
           "name": "Grass2",
           "persistentUuid": "39e1fe88-e6f1-4bbe-a563-7c6f49b6fe37",
           "width": 0,
-          "x": 828,
-          "y": 422,
+          "x": 1175,
+          "y": 431,
           "zOrder": 87,
           "numberProperties": [],
           "stringProperties": [],
@@ -10103,8 +10112,8 @@
           "name": "Grass2",
           "persistentUuid": "caff164a-a06f-46e3-b4c1-766c574596c9",
           "width": 0,
-          "x": 895,
-          "y": 425,
+          "x": 1110,
+          "y": 432,
           "zOrder": 26,
           "numberProperties": [],
           "stringProperties": [],
@@ -10119,8 +10128,8 @@
           "name": "Grass2",
           "persistentUuid": "f8dadabf-b75e-4190-a2c3-61bc2e43b7d0",
           "width": 0,
-          "x": 955,
-          "y": 429,
+          "x": 1060,
+          "y": 425,
           "zOrder": 87,
           "numberProperties": [],
           "stringProperties": [],
@@ -10151,7 +10160,7 @@
           "name": "colisaoDireita",
           "persistentUuid": "1fed7f3b-274c-4d27-98d9-a4e7e50b7aee",
           "width": 339,
-          "x": 834,
+          "x": 1025,
           "y": 419,
           "zOrder": 87,
           "numberProperties": [],
@@ -10343,8 +10352,8 @@
           "name": "BntBarco",
           "persistentUuid": "3acbd50f-be5c-46dc-9cf7-33a3a5463a2b",
           "width": 221,
-          "x": 344,
-          "y": 57,
+          "x": 347,
+          "y": 30,
           "zOrder": 157,
           "numberProperties": [],
           "stringProperties": [],
@@ -10359,8 +10368,8 @@
           "name": "home",
           "persistentUuid": "1d935e94-05be-4bb9-8aa1-e54960276771",
           "width": 60,
-          "x": 8,
-          "y": 9,
+          "x": 18,
+          "y": 11,
           "zOrder": 158,
           "numberProperties": [],
           "stringProperties": [],
@@ -10375,9 +10384,73 @@
           "name": "colisaoMeio",
           "persistentUuid": "061abec4-6278-4760-9995-e10486bc504d",
           "width": 103,
-          "x": 522,
-          "y": 254,
+          "x": 551,
+          "y": 257,
           "zOrder": 159,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "wather_top",
+          "persistentUuid": "766cca3e-133e-42f8-90dd-939772c7b4a1",
+          "width": 0,
+          "x": 896,
+          "y": 480,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "wather_top",
+          "persistentUuid": "853cd9d8-fd8d-4fd2-b6b9-b47cf678eabf",
+          "width": 0,
+          "x": 864,
+          "y": 480,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "wather_top",
+          "persistentUuid": "6a90be9c-42d8-458b-904e-b0fdcbe3a8c3",
+          "width": 0,
+          "x": 928,
+          "y": 480,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "wather_top",
+          "persistentUuid": "a6cdb43d-3538-47e4-9225-eb62871f1ac1",
+          "width": 0,
+          "x": 960,
+          "y": 480,
+          "zOrder": 24,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -14184,6 +14257,24 @@
                     "QueijoHitBox.X()",
                     "=",
                     "QueijoHitBox.Y()"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "FixCamera"
+                  },
+                  "parameters": [
+                    "",
+                    "JangadaHitBox",
+                    "0",
+                    "0",
+                    "max(JangadaHitBox.X(),1500)",
+                    "min(540, max(JangadaHitBox.Y(),540))",
+                    "",
+                    "",
+                    ""
                   ],
                   "subInstructions": []
                 }
@@ -20125,74 +20216,10 @@
           "layer": "",
           "locked": false,
           "name": "MsgMorte",
-          "persistentUuid": "cf5b35e5-f4f4-4618-bf91-a892579942c8",
-          "width": 0,
-          "x": 235,
-          "y": 221,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "resta",
-          "persistentUuid": "4a233a4d-76f6-485d-bf20-763323d41385",
-          "width": 0,
-          "x": 314,
-          "y": 357,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "BackToMenu",
-          "persistentUuid": "a322f470-6ebc-45b8-8a1c-a985cedf92f9",
-          "width": 0,
-          "x": 380,
-          "y": 494,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 546,
-          "layer": "",
-          "locked": false,
-          "name": "NewObject",
-          "persistentUuid": "4758a32f-3261-4518-b895-13de390a6e8c",
-          "width": 964,
-          "x": 0,
-          "y": -3,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "MsgMorte",
           "persistentUuid": "f9370eb8-8ae8-4de1-88f4-c14bb2aef4ed",
           "width": 0,
           "x": 301,
-          "y": 160,
+          "y": 161,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -20229,99 +20256,25 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 592,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject",
+          "persistentUuid": "b371b6a8-2233-4531-86ba-a40ea5e8526f",
+          "width": 966,
+          "x": -2,
+          "y": -25,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
-        {
-          "name": "NewObject",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.5699999928474426,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Media\\Characters GameQi\\Cat\\Animation\\cat1.jpg",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Media\\Characters GameQi\\Cat\\Animation\\cat2.jpg",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Media\\Characters GameQi\\Cat\\Animation\\cat-3.jpg",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Media\\Characters GameQi\\Cat\\Animation\\cat4.jpg",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "bold": true,
           "italic": false,
@@ -20475,6 +20428,45 @@
               ]
             }
           ]
+        },
+        {
+          "name": "NewObject",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\BarcaNaufragado.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -20495,16 +20487,6 @@
             }
           ],
           "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "PlayAnimation"
-              },
-              "parameters": [
-                "NewObject"
-              ],
-              "subInstructions": []
-            },
             {
               "type": {
                 "inverted": false,
