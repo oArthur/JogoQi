@@ -8468,6 +8468,11 @@
       "name": "lifes",
       "type": "string",
       "value": "0"
+    },
+    {
+      "name": "tempo",
+      "type": "string",
+      "value": "0"
     }
   ],
   "layouts": [
@@ -9533,7 +9538,7 @@
         "gridWidth": 32,
         "snap": false,
         "windowMask": false,
-        "zoomFactor": 0.9000000000000001
+        "zoomFactor": 0.9400000000000002
       },
       "objectsGroups": [],
       "variables": [],
@@ -10080,8 +10085,8 @@
           "name": "Jangada",
           "persistentUuid": "470fafc7-fa55-4d7a-bc85-2d691ef73d28",
           "width": 0,
-          "x": 301,
-          "y": 284,
+          "x": 314,
+          "y": 269,
           "zOrder": 99,
           "numberProperties": [],
           "stringProperties": [],
@@ -10096,8 +10101,8 @@
           "name": "JangadaHitBox",
           "persistentUuid": "c4838fce-93aa-4477-82eb-439414ab91e2",
           "width": 0,
-          "x": 298,
-          "y": 283,
+          "x": 315,
+          "y": 267,
           "zOrder": 108,
           "numberProperties": [],
           "stringProperties": [],
@@ -10175,9 +10180,9 @@
           "locked": false,
           "name": "colisaoDireita",
           "persistentUuid": "1fed7f3b-274c-4d27-98d9-a4e7e50b7aee",
-          "width": 339,
-          "x": 1025,
-          "y": 419,
+          "width": 420,
+          "x": 946,
+          "y": 420,
           "zOrder": 87,
           "numberProperties": [],
           "stringProperties": [],
@@ -10400,8 +10405,8 @@
           "name": "colisaoMeio",
           "persistentUuid": "061abec4-6278-4760-9995-e10486bc504d",
           "width": 103,
-          "x": 551,
-          "y": 257,
+          "x": 563,
+          "y": 258,
           "zOrder": 159,
           "numberProperties": [],
           "stringProperties": [],
@@ -10473,16 +10478,16 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 64,
           "layer": "HUD",
           "locked": false,
           "name": "hud_time",
           "persistentUuid": "36a8f5d4-97fc-4566-9f8e-679521db680d",
-          "width": 0,
-          "x": 121,
+          "width": 164,
+          "x": 119,
           "y": 13,
-          "zOrder": 160,
+          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -10494,9 +10499,9 @@
           "layer": "HUD",
           "locked": false,
           "name": "timer",
-          "persistentUuid": "e1e911c2-2692-45f7-988d-d5d6527a0e24",
+          "persistentUuid": "0d0675d6-d8e4-4c36-aa7c-45effa12ed7b",
           "width": 0,
-          "x": 194,
+          "x": 204,
           "y": 43,
           "zOrder": 161,
           "numberProperties": [],
@@ -14273,7 +14278,7 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "999",
+          "string": "0",
           "font": "Media\\fonts\\Press_Start_2P\\PressStart2P-Regular.ttf",
           "characterSize": 20,
           "color": {
@@ -17375,7 +17380,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": true,
+          "folded": false,
           "name": "GameController",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -18521,7 +18526,96 @@
           "name": "Timer",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
-          "events": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "DepartScene"
+                  },
+                  "parameters": [
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Timer\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Sec\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Timer"
+                  },
+                  "parameters": [
+                    "",
+                    "1",
+                    "\"Sec\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "timer",
+                    "=",
+                    "ToString(round(TimerElapsedTime(\"Timer\")))"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "tempo",
+                    "=",
+                    "round(TimerElapsedTime(\"Timer\"))"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ],
           "parameters": []
         }
       ],
@@ -24237,7 +24331,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.5000000000000001
+        "zoomFactor": 1.1000000000000005
       },
       "objectsGroups": [],
       "variables": [],
@@ -24276,15 +24370,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 413,
           "layer": "",
           "locked": false,
           "name": "NewObject2",
           "persistentUuid": "a9fecffe-79d5-4d3a-aa50-1427a5af5979",
-          "width": 0,
-          "x": 320,
-          "y": 39,
+          "width": 435,
+          "x": 268,
+          "y": 122,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -24315,9 +24409,41 @@
           "name": "Msg",
           "persistentUuid": "1796f98b-ddce-491d-a5a0-7aabf8b04e8d",
           "width": 0,
-          "x": 445,
-          "y": 162,
+          "x": 161,
+          "y": 35,
           "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "tempo",
+          "persistentUuid": "b6480ea2-15e1-4ae8-bfb1-c98781ddbdd6",
+          "width": 0,
+          "x": 413,
+          "y": 245,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "msgtempo",
+          "persistentUuid": "49b6355a-5df1-49fc-bfeb-fdf0368ac577",
+          "width": 0,
+          "x": 366,
+          "y": 217,
+          "zOrder": 16,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -24334,9 +24460,9 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "YOU WIN!",
-          "font": "",
-          "characterSize": 35,
+          "string": "         Parabéns!! \nVocê concluiu a travessia!",
+          "font": "Media\\fonts\\Press_Start_2P\\PressStart2P-Regular.ttf",
+          "characterSize": 25,
           "color": {
             "b": 17,
             "g": 187,
@@ -24508,6 +24634,44 @@
               ]
             }
           ]
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "tempo",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "999",
+          "font": "Media\\fonts\\Press_Start_2P\\PressStart2P-Regular.ttf",
+          "characterSize": 25,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "bold": true,
+          "italic": false,
+          "name": "msgtempo",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Seu tempo:",
+          "font": "Media\\fonts\\Press_Start_2P\\PressStart2P-Regular.ttf",
+          "characterSize": 16,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
         }
       ],
       "events": [
@@ -24539,6 +24703,18 @@
                 "yes",
                 "30",
                 ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "tempo",
+                "=",
+                "GlobalVariableString(tempo)+\"s\""
               ],
               "subInstructions": []
             }
@@ -24963,6 +25139,14 @@
               "subInstructions": []
             }
           ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
           "events": []
         }
       ],
